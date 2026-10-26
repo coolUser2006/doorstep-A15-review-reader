@@ -29,7 +29,9 @@ _sia = SentimentIntensityAnalyzer()
 _sia.lexicon.update({"late": -1.5, "delayed": -2.0, "rude": -2.5, "dirt": -1.5, "dirty": -2.0, "streaky": -2.0,
                      "expensive": -2.0, "crashed": -2.0, "failed": -2.0, "careless": -2.0, "missed": -1.5,
                      "barely": -1.0, "scratches": -2.0, "ignored": -2.0, "hassle": -1.5, "forever": -1.5,
-                     "spotless": 2.5, "shining": 2.0, "punctual": 2.0, "polite": 2.0, "respectful": 2.0,
+                     "reliable": 1.5, "unreliable": -2.0, "problem": -1.5, "problems": -1.5, "issue": -1.0, "issues": -1.0,
+                     "broke": -2.0, "repair": -1.0, "repairs": -1.0, "recall": -1.5, "comfortable": 1.5, "uncomfortable": -2.0,
+                     "leak": -2.0, "leaks": -2.0, "overpriced": -2.0, "spotless": 2.5, "shining": 2.0, "punctual": 2.0, "polite": 2.0, "respectful": 2.0,
                      "reasonable": 1.5, "easy": 1.5, "simple": 1.5, "smooth": 1.5, "quick": 1.5})
 
 

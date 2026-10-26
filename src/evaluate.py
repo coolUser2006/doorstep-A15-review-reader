@@ -43,16 +43,16 @@ def to_review_aspects(cl):
     return out
 
 
-def driver_analysis(ra, n_boot=300):
+def driver_analysis(ra, aspects=ASPECTS, n_boot=300):
     """Which aspect most strongly drives a bad (<=2) rating? Odds ratios with bootstrap 95% CIs."""
     if ra["rating"].isna().all():
         return None
     wide = ra.assign(neg=(ra.sentiment == "negative").astype(int)).pivot_table(
         index="review_id", columns="aspect", values="neg", aggfunc="max", fill_value=0)
-    for a in ASPECTS:
+    for a in aspects:
         if a not in wide:
             wide[a] = 0
-    wide = wide[ASPECTS]
+    wide = wide[list(aspects)]
     rating = ra.drop_duplicates("review_id").set_index("review_id")["rating"].astype(float).reindex(wide.index)
     keep = rating.notna()
     X, y = wide[keep].values, (rating[keep] <= 2).astype(int).values
@@ -64,9 +64,9 @@ def driver_analysis(ra, n_boot=300):
             boots.append(fit(X[i], y[i]))
     lo, hi = np.percentile(boots, [2.5, 97.5], axis=0)
     r = rating[keep].values
-    out = pd.DataFrame({"aspect": ASPECTS, "n_reviews_negative": X.sum(0),
-                        "mean_rating_if_negative": [r[X[:, j] == 1].mean() if X[:, j].any() else np.nan for j in range(5)],
-                        "mean_rating_otherwise": [r[X[:, j] == 0].mean() for j in range(5)],
+    out = pd.DataFrame({"aspect": list(aspects), "n_reviews_negative": X.sum(0),
+                        "mean_rating_if_negative": [r[X[:, j] == 1].mean() if X[:, j].any() else np.nan for j in range(len(aspects))],
+                        "mean_rating_otherwise": [r[X[:, j] == 0].mean() for j in range(len(aspects))],
                         "odds_ratio": point, "ci_low": lo, "ci_high": hi}).round(3)
     out.attrs["bad_rate"] = float(y.mean())
     return out.sort_values("odds_ratio", ascending=False)
