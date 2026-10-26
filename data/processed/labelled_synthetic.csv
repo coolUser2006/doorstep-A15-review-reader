@@ -1,0 +1,2744 @@
+review_id,text,aspect,sentiment
+RV00000,I have been using this for a month.,other,neutral
+RV00000,The crew turned up exactly at my slot.,punctuality,positive
+RV00001,Would tell my colleagues about it.,other,neutral
+RV00001,Cancelling was a hassle.,booking_experience,negative
+RV00002,Waited forever for the van to turn up.,punctuality,negative
+RV00002,Cancelling was a hassle.,booking_experience,negative
+RV00002,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00003,The interior looked brand new.,wash_quality,positive
+RV00003,Booking was quick and easy.,booking_experience,positive
+RV00004,The car was spotless and shining.,wash_quality,positive
+RV00004,Good value for the money.,price,positive
+RV00004,They explained everything patiently.,staff_behaviour,positive
+RV00005,Would tell my colleagues about it.,other,neutral
+RV00005,The car was spotless and shining.,wash_quality,positive
+RV00005,Punctual and quick to start.,punctuality,positive
+RV00006,The interior looked brand new.,wash_quality,positive
+RV00006,Paying through the app was smooth.,booking_experience,positive
+RV00007,Showed up well after the slot I booked.,punctuality,negative
+RV00008,Fair rates for the quality.,other,negative
+RV00009,Punctual and quick to start.,punctuality,positive
+RV00009,Friendly and helpful team.,staff_behaviour,positive
+RV00010,Could not reschedule my appointment.,booking_experience,negative
+RV00010,The car was spotless and shining.,wash_quality,positive
+RV00011,Arrived right on time.,punctuality,positive
+RV00011,My paint has fresh scratches now.,wash_quality,negative
+RV00012,The bill was higher than quoted.,price,negative
+RV00012,Great finish on the paint.,wash_quality,positive
+RV00013,I have been using this for a month.,other,neutral
+RV00013,Booking was quick and easy.,booking_experience,positive
+RV00013,The crew arrived an hour late.,punctuality,negative
+RV00013,Great finish on the paint.,wash_quality,positive
+RV00014,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00014,Paying through the app was smooth.,booking_experience,positive
+RV00015,Waited forever for the van to turn up.,punctuality,negative
+RV00016,Charged extra without telling me.,price,negative
+RV00016,Left water marks all over the windshield.,booking_experience,negative
+RV00017,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00018,Windows were crystal clear.,wash_quality,positive
+RV00018,It was a Tuesday morning.,other,neutral
+RV00019,It was a Tuesday morning.,other,neutral
+RV00019,Very reasonable price.,price,positive
+RV00019,The car still had dirt on the bumpers.,wash_quality,negative
+RV00019,Booking was quick and easy.,booking_experience,positive
+RV00020,Friendly and helpful team.,staff_behaviour,positive
+RV00020,Arrived right on time.,punctuality,positive
+RV00020,The interior looked brand new.,wash_quality,positive
+RV00021,Arrived right on time.,punctuality,positive
+RV00021,I parked in the office basement.,other,neutral
+RV00022,Great finish on the paint.,wash_quality,positive
+RV00023,Booking was quick and easy.,booking_experience,positive
+RV00024,The crew turned up exactly at my slot.,punctuality,positive
+RV00024,I parked in the office basement.,other,neutral
+RV00025,Would tell my colleagues about it.,other,neutral
+RV00025,Punctual and quick to start.,punctuality,positive
+RV00026,They explained everything patiently.,staff_behaviour,positive
+RV00026,Good value for the money.,price,positive
+RV00026,The app crashed while booking.,booking_experience,negative
+RV00027,Paying through the app was smooth.,booking_experience,positive
+RV00027,The interior looked brand new.,wash_quality,positive
+RV00028,Fair rates for the quality.,price,positive
+RV00028,The interior was barely cleaned.,wash_quality,negative
+RV00029,Great finish on the paint.,wash_quality,positive
+RV00029,Cheaper than going to a car wash.,price,positive
+RV00029,Could not reschedule my appointment.,booking_experience,negative
+RV00030,Punctual and quick to start.,punctuality,positive
+RV00030,It was a Tuesday morning.,other,neutral
+RV00030,Payment failed twice in the app.,booking_experience,negative
+RV00031,Charged extra without telling me.,price,negative
+RV00032,Booking was quick and easy.,booking_experience,positive
+RV00032,They explained everything patiently.,staff_behaviour,positive
+RV00033,Rescheduling took seconds.,booking_experience,positive
+RV00033,The car was spotless and shining.,wash_quality,positive
+RV00033,Friendly and helpful team.,staff_behaviour,positive
+RV00034,One guy kept arguing with me.,price,positive
+RV00034,Punctual and quick to start.,punctuality,positive
+RV00035,Good value for the money.,price,positive
+RV00036,They ignored my instructions completely.,staff_behaviour,negative
+RV00036,I parked in the office basement.,other,neutral
+RV00036,Loved how simple the app is.,booking_experience,positive
+RV00036,The car was spotless and shining.,wash_quality,positive
+RV00037,Paying through the app was smooth.,booking_experience,positive
+RV00037,Good value for the money.,price,positive
+RV00037,Punctual and quick to start.,punctuality,positive
+RV00038,One guy kept arguing with me.,staff_behaviour,negative
+RV00038,The car was spotless and shining.,wash_quality,positive
+RV00039,Windows were crystal clear.,wash_quality,positive
+RV00039,Arrived right on time.,punctuality,positive
+RV00039,Cheaper than going to a car wash.,price,positive
+RV00039,It was a Tuesday morning.,other,neutral
+RV00040,They were delayed and never called.,punctuality,negative
+RV00040,It was a Tuesday morning.,other,neutral
+RV00040,The car was spotless and shining.,wash_quality,positive
+RV00040,Very reasonable price.,price,positive
+RV00041,Punctual and quick to start.,punctuality,positive
+RV00041,The crew was rude and dismissive.,staff_behaviour,negative
+RV00041,The car still had dirt on the bumpers.,wash_quality,negative
+RV00042,Could not reschedule my appointment.,booking_experience,negative
+RV00043,Great finish on the paint.,wash_quality,positive
+RV00043,The crew was polite and respectful.,staff_behaviour,positive
+RV00044,The interior was barely cleaned.,wash_quality,negative
+RV00044,Good value for the money.,price,positive
+RV00044,Arrived right on time.,punctuality,positive
+RV00045,Fair rates for the quality.,price,positive
+RV00045,My paint has fresh scratches now.,wash_quality,negative
+RV00045,"They were early, which I appreciated.",punctuality,positive
+RV00046,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00046,They were delayed and never called.,punctuality,negative
+RV00047,It was a Tuesday morning.,other,neutral
+RV00047,They explained everything patiently.,staff_behaviour,positive
+RV00047,Loved how simple the app is.,booking_experience,positive
+RV00048,They were delayed and never called.,punctuality,negative
+RV00049,I parked in the office basement.,other,neutral
+RV00049,Fair rates for the quality.,price,positive
+RV00049,They explained everything patiently.,staff_behaviour,positive
+RV00050,Cheaper than going to a car wash.,price,positive
+RV00050,My paint has fresh scratches now.,wash_quality,negative
+RV00051,They explained everything patiently.,staff_behaviour,positive
+RV00051,The crew turned up exactly at my slot.,staff_behaviour,neutral
+RV00052,Very professional staff.,staff_behaviour,positive
+RV00052,The crew arrived an hour late.,punctuality,negative
+RV00052,Cheaper than going to a car wash.,price,positive
+RV00053,My paint has fresh scratches now.,wash_quality,negative
+RV00053,They explained everything patiently.,staff_behaviour,positive
+RV00053,Paying through the app was smooth.,booking_experience,positive
+RV00054,My paint has fresh scratches now.,wash_quality,negative
+RV00054,I have been using this for a month.,other,neutral
+RV00055,The crew turned up exactly at my slot.,punctuality,positive
+RV00055,Cheaper than going to a car wash.,price,positive
+RV00056,Waited forever for the van to turn up.,punctuality,negative
+RV00056,Rescheduling took seconds.,booking_experience,positive
+RV00057,Punctual and quick to start.,punctuality,positive
+RV00057,The bill was higher than quoted.,price,negative
+RV00057,One guy kept arguing with me.,staff_behaviour,negative
+RV00058,Windows were crystal clear.,wash_quality,positive
+RV00059,Windows were crystal clear.,wash_quality,positive
+RV00059,It was a Tuesday morning.,other,neutral
+RV00059,Good value for the money.,price,positive
+RV00059,Punctual and quick to start.,punctuality,positive
+RV00060,Booking was quick and easy.,booking_experience,positive
+RV00060,Would tell my colleagues about it.,other,neutral
+RV00061,Charged extra without telling me.,price,negative
+RV00061,Rescheduling took seconds.,booking_experience,positive
+RV00062,Good value for the money.,price,positive
+RV00063,Fair rates for the quality.,price,positive
+RV00063,Loved how simple the app is.,booking_experience,positive
+RV00063,My paint has fresh scratches now.,wash_quality,negative
+RV00064,Very professional staff.,staff_behaviour,positive
+RV00065,"They were early, which I appreciated.",punctuality,positive
+RV00065,Good value for the money.,booking_experience,positive
+RV00065,Friendly and helpful team.,staff_behaviour,positive
+RV00065,It was a Tuesday morning.,other,neutral
+RV00066,"They were early, which I appreciated.",punctuality,positive
+RV00066,Good value for the money.,price,positive
+RV00066,Payment failed twice in the app.,booking_experience,negative
+RV00067,Punctual and quick to start.,punctuality,positive
+RV00067,Good value for the money.,price,positive
+RV00068,Not worth the money.,price,negative
+RV00069,The bill was higher than quoted.,price,negative
+RV00069,Great finish on the paint.,wash_quality,positive
+RV00069,I have been using this for a month.,other,neutral
+RV00070,Windows were crystal clear.,wash_quality,positive
+RV00070,Way too expensive for a basic wash.,price,negative
+RV00071,Very professional staff.,staff_behaviour,positive
+RV00071,Paying through the app was smooth.,booking_experience,positive
+RV00072,The interior looked brand new.,wash_quality,positive
+RV00073,Rescheduling took seconds.,booking_experience,positive
+RV00073,"They were early, which I appreciated.",punctuality,positive
+RV00073,The crew was polite and respectful.,staff_behaviour,positive
+RV00074,Payment failed twice in the app.,booking_experience,negative
+RV00074,They were delayed and never called.,punctuality,negative
+RV00075,Rescheduling took seconds.,booking_experience,positive
+RV00075,Very professional staff.,staff_behaviour,positive
+RV00076,Good value for the money.,price,positive
+RV00077,Booking was quick and easy.,booking_experience,positive
+RV00077,The crew was polite and respectful.,staff_behaviour,positive
+RV00077,Punctual and quick to start.,booking_experience,neutral
+RV00078,Punctual and quick to start.,punctuality,positive
+RV00078,I have been using this for a month.,other,neutral
+RV00078,Very reasonable price.,price,positive
+RV00079,Not worth the money.,price,negative
+RV00079,Paying through the app was smooth.,booking_experience,positive
+RV00079,It was a Tuesday morning.,other,neutral
+RV00079,The interior looked brand new.,wash_quality,positive
+RV00080,Way too expensive for a basic wash.,price,negative
+RV00081,The crew turned up exactly at my slot.,punctuality,positive
+RV00082,Great finish on the paint.,wash_quality,positive
+RV00082,The crew turned up exactly at my slot.,punctuality,positive
+RV00083,Loved how simple the app is.,booking_experience,positive
+RV00083,Waited forever for the van to turn up.,other,neutral
+RV00084,Punctual and quick to start.,punctuality,positive
+RV00085,Booking was quick and easy.,booking_experience,positive
+RV00085,It was a Tuesday morning.,other,neutral
+RV00086,Arrived right on time.,punctuality,positive
+RV00086,Payment failed twice in the app.,booking_experience,negative
+RV00086,The interior looked brand new.,wash_quality,positive
+RV00087,Paying through the app was smooth.,booking_experience,positive
+RV00087,Fair rates for the quality.,price,positive
+RV00088,Very professional staff.,staff_behaviour,positive
+RV00088,The car still had dirt on the bumpers.,wash_quality,negative
+RV00088,I have been using this for a month.,other,neutral
+RV00089,Fair rates for the quality.,price,positive
+RV00090,Loved how simple the app is.,booking_experience,positive
+RV00090,I have been using this for a month.,other,neutral
+RV00090,They ignored my instructions completely.,staff_behaviour,negative
+RV00091,Rescheduling took seconds.,booking_experience,positive
+RV00091,Would tell my colleagues about it.,other,neutral
+RV00092,The car still had dirt on the bumpers.,wash_quality,negative
+RV00092,Charged extra without telling me.,price,negative
+RV00093,Nobody came until the afternoon.,punctuality,negative
+RV00093,I have been using this for a month.,other,neutral
+RV00094,Very reasonable price.,price,positive
+RV00094,The crew was polite and respectful.,staff_behaviour,negative
+RV00094,Nobody came until the afternoon.,punctuality,negative
+RV00095,They ignored my instructions completely.,staff_behaviour,negative
+RV00095,Loved how simple the app is.,booking_experience,positive
+RV00095,I parked in the office basement.,punctuality,neutral
+RV00096,Very professional staff.,staff_behaviour,negative
+RV00097,Friendly and helpful team.,staff_behaviour,positive
+RV00097,"They were early, which I appreciated.",punctuality,positive
+RV00097,Windows were crystal clear.,wash_quality,positive
+RV00098,Rescheduling took seconds.,booking_experience,positive
+RV00099,Left water marks all over the windshield.,wash_quality,negative
+RV00100,Windows were crystal clear.,wash_quality,positive
+RV00101,The interior looked brand new.,wash_quality,positive
+RV00101,Very professional staff.,staff_behaviour,positive
+RV00102,The crew arrived an hour late.,punctuality,negative
+RV00102,Cheaper than going to a car wash.,price,positive
+RV00102,Paying through the app was smooth.,booking_experience,positive
+RV00103,Very reasonable price.,other,neutral
+RV00103,Waited forever for the van to turn up.,punctuality,negative
+RV00104,Rescheduling took seconds.,booking_experience,positive
+RV00104,Very professional staff.,staff_behaviour,positive
+RV00105,Friendly and helpful team.,staff_behaviour,positive
+RV00105,Loved how simple the app is.,booking_experience,positive
+RV00105,Cheaper than going to a car wash.,price,positive
+RV00106,Windows were crystal clear.,wash_quality,positive
+RV00106,Booking was quick and easy.,booking_experience,positive
+RV00106,The crew was polite and respectful.,staff_behaviour,positive
+RV00107,The crew turned up exactly at my slot.,staff_behaviour,positive
+RV00107,Loved how simple the app is.,booking_experience,positive
+RV00107,I parked in the office basement.,other,neutral
+RV00108,Windows were crystal clear.,wash_quality,positive
+RV00108,Cheaper than going to a car wash.,price,positive
+RV00109,Loved how simple the app is.,booking_experience,positive
+RV00109,Good value for the money.,price,positive
+RV00110,Rescheduling took seconds.,booking_experience,positive
+RV00110,I parked in the office basement.,other,neutral
+RV00111,I have been using this for a month.,punctuality,positive
+RV00111,Fair rates for the quality.,price,positive
+RV00111,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00112,"They were early, which I appreciated.",punctuality,positive
+RV00112,Friendly and helpful team.,staff_behaviour,positive
+RV00113,Payment failed twice in the app.,booking_experience,negative
+RV00113,Way too expensive for a basic wash.,price,negative
+RV00113,It was a Tuesday morning.,other,neutral
+RV00114,Loved how simple the app is.,booking_experience,positive
+RV00114,I have been using this for a month.,other,neutral
+RV00115,"They were early, which I appreciated.",punctuality,positive
+RV00115,Cancelling was a hassle.,booking_experience,negative
+RV00116,The crew was rude and dismissive.,booking_experience,neutral
+RV00117,Cancelling was a hassle.,booking_experience,negative
+RV00117,I parked in the office basement.,other,neutral
+RV00117,Good value for the money.,price,positive
+RV00118,Could not reschedule my appointment.,booking_experience,negative
+RV00118,The interior looked brand new.,wash_quality,positive
+RV00118,Way too expensive for a basic wash.,price,negative
+RV00118,Would tell my colleagues about it.,other,neutral
+RV00119,Nobody came until the afternoon.,punctuality,negative
+RV00119,Good value for the money.,price,positive
+RV00120,The bill was higher than quoted.,price,negative
+RV00120,Very professional staff.,staff_behaviour,positive
+RV00121,"They were early, which I appreciated.",punctuality,positive
+RV00122,"They were early, which I appreciated.",punctuality,positive
+RV00122,Would tell my colleagues about it.,other,neutral
+RV00122,The car still had dirt on the bumpers.,wash_quality,negative
+RV00123,Punctual and quick to start.,punctuality,positive
+RV00123,The crew was polite and respectful.,staff_behaviour,positive
+RV00123,Great finish on the paint.,wash_quality,positive
+RV00124,It was a Tuesday morning.,other,neutral
+RV00124,One guy kept arguing with me.,staff_behaviour,negative
+RV00124,Fair rates for the quality.,price,positive
+RV00124,Windows were crystal clear.,wash_quality,positive
+RV00125,Great finish on the paint.,wash_quality,positive
+RV00125,One guy kept arguing with me.,staff_behaviour,negative
+RV00126,Windows were crystal clear.,wash_quality,positive
+RV00126,Very professional staff.,staff_behaviour,positive
+RV00126,Booking was quick and easy.,booking_experience,positive
+RV00127,Good value for the money.,price,positive
+RV00127,The car was spotless and shining.,wash_quality,positive
+RV00128,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00128,Rescheduling took seconds.,booking_experience,positive
+RV00128,Would tell my colleagues about it.,other,neutral
+RV00129,Booking was quick and easy.,booking_experience,positive
+RV00129,Nobody came until the afternoon.,other,positive
+RV00129,I parked in the office basement.,other,neutral
+RV00130,The car still had dirt on the bumpers.,wash_quality,negative
+RV00130,Fair rates for the quality.,price,positive
+RV00131,Friendly and helpful team.,staff_behaviour,positive
+RV00131,Booking was quick and easy.,booking_experience,positive
+RV00132,They were delayed and never called.,punctuality,negative
+RV00132,I parked in the office basement.,other,neutral
+RV00132,Paying through the app was smooth.,booking_experience,positive
+RV00133,The crew turned up exactly at my slot.,punctuality,positive
+RV00133,Payment failed twice in the app.,punctuality,neutral
+RV00133,The interior was barely cleaned.,wash_quality,negative
+RV00134,Very professional staff.,staff_behaviour,positive
+RV00134,Charged extra without telling me.,price,negative
+RV00135,Windows were crystal clear.,wash_quality,positive
+RV00136,Windows were crystal clear.,wash_quality,positive
+RV00136,Would tell my colleagues about it.,other,neutral
+RV00136,Booking was quick and easy.,booking_experience,positive
+RV00137,They explained everything patiently.,staff_behaviour,positive
+RV00137,Paying through the app was smooth.,booking_experience,positive
+RV00137,Very reasonable price.,price,positive
+RV00138,Loved how simple the app is.,booking_experience,positive
+RV00139,Showed up well after the slot I booked.,punctuality,negative
+RV00139,Cancelling was a hassle.,booking_experience,negative
+RV00139,The car was spotless and shining.,wash_quality,positive
+RV00140,The interior looked brand new.,wash_quality,positive
+RV00141,Cheaper than going to a car wash.,price,positive
+RV00141,Friendly and helpful team.,staff_behaviour,positive
+RV00141,Rescheduling took seconds.,booking_experience,positive
+RV00142,Windows were crystal clear.,wash_quality,positive
+RV00142,The bill was higher than quoted.,price,negative
+RV00142,They explained everything patiently.,staff_behaviour,positive
+RV00143,I parked in the office basement.,other,neutral
+RV00143,One guy kept arguing with me.,staff_behaviour,negative
+RV00143,My paint has fresh scratches now.,wash_quality,negative
+RV00143,Loved how simple the app is.,booking_experience,positive
+RV00144,Loved how simple the app is.,booking_experience,positive
+RV00145,Booking was quick and easy.,booking_experience,positive
+RV00145,The crew was polite and respectful.,staff_behaviour,positive
+RV00146,Great finish on the paint.,wash_quality,positive
+RV00147,It was a Tuesday morning.,other,neutral
+RV00147,Punctual and quick to start.,punctuality,positive
+RV00147,The crew was rude and dismissive.,staff_behaviour,negative
+RV00148,They explained everything patiently.,staff_behaviour,positive
+RV00148,Great finish on the paint.,wash_quality,positive
+RV00148,They were delayed and never called.,punctuality,negative
+RV00149,They explained everything patiently.,staff_behaviour,positive
+RV00149,"They were early, which I appreciated.",punctuality,positive
+RV00150,The crew turned up exactly at my slot.,punctuality,positive
+RV00150,Rescheduling took seconds.,booking_experience,positive
+RV00151,Paying through the app was smooth.,booking_experience,positive
+RV00151,Friendly and helpful team.,staff_behaviour,positive
+RV00151,The car was spotless and shining.,wash_quality,positive
+RV00152,Cancelling was a hassle.,booking_experience,negative
+RV00152,Left water marks all over the windshield.,wash_quality,negative
+RV00153,"They were early, which I appreciated.",staff_behaviour,positive
+RV00153,Cheaper than going to a car wash.,price,positive
+RV00153,The crew was polite and respectful.,staff_behaviour,positive
+RV00154,The bill was higher than quoted.,price,negative
+RV00154,I parked in the office basement.,other,neutral
+RV00155,Punctual and quick to start.,punctuality,positive
+RV00155,Good value for the money.,price,positive
+RV00155,They ignored my instructions completely.,staff_behaviour,negative
+RV00156,Not worth the money.,price,negative
+RV00156,Loved how simple the app is.,booking_experience,positive
+RV00156,One guy kept arguing with me.,staff_behaviour,negative
+RV00157,The car still had dirt on the bumpers.,wash_quality,negative
+RV00157,I have been using this for a month.,other,neutral
+RV00157,Arrived right on time.,punctuality,positive
+RV00158,The interior looked brand new.,wash_quality,positive
+RV00158,Would tell my colleagues about it.,other,neutral
+RV00159,Friendly and helpful team.,staff_behaviour,positive
+RV00159,Paying through the app was smooth.,booking_experience,positive
+RV00159,Arrived right on time.,punctuality,positive
+RV00160,Charged extra without telling me.,price,negative
+RV00160,They ignored my instructions completely.,staff_behaviour,negative
+RV00161,Windows were crystal clear.,wash_quality,positive
+RV00161,Not worth the money.,price,negative
+RV00162,The crew was polite and respectful.,staff_behaviour,positive
+RV00163,The car was spotless and shining.,wash_quality,positive
+RV00163,Cheaper than going to a car wash.,price,positive
+RV00163,I parked in the office basement.,other,neutral
+RV00164,Cheaper than going to a car wash.,price,positive
+RV00164,The interior looked brand new.,wash_quality,positive
+RV00165,Great finish on the paint.,wash_quality,positive
+RV00165,It was a Tuesday morning.,other,neutral
+RV00165,The crew was polite and respectful.,staff_behaviour,positive
+RV00165,Very reasonable price.,price,positive
+RV00166,Cheaper than going to a car wash.,price,positive
+RV00166,It was a Tuesday morning.,other,neutral
+RV00166,Very professional staff.,punctuality,neutral
+RV00167,The car was spotless and shining.,wash_quality,positive
+RV00167,They were delayed and never called.,booking_experience,positive
+RV00168,I have been using this for a month.,other,neutral
+RV00168,Friendly and helpful team.,staff_behaviour,positive
+RV00168,Punctual and quick to start.,punctuality,positive
+RV00168,Cancelling was a hassle.,booking_experience,negative
+RV00169,They ignored my instructions completely.,staff_behaviour,negative
+RV00169,The app crashed while booking.,booking_experience,negative
+RV00169,The car was spotless and shining.,wash_quality,positive
+RV00170,Friendly and helpful team.,staff_behaviour,negative
+RV00170,Nobody came until the afternoon.,punctuality,negative
+RV00170,Booking was quick and easy.,booking_experience,positive
+RV00171,They explained everything patiently.,staff_behaviour,positive
+RV00171,"They were early, which I appreciated.",punctuality,positive
+RV00171,Loved how simple the app is.,price,negative
+RV00172,Very professional staff.,staff_behaviour,positive
+RV00173,Windows were crystal clear.,wash_quality,positive
+RV00173,Fair rates for the quality.,price,positive
+RV00173,Payment failed twice in the app.,booking_experience,negative
+RV00174,Very reasonable price.,price,positive
+RV00174,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00175,Rescheduling took seconds.,booking_experience,positive
+RV00175,It was a Tuesday morning.,other,neutral
+RV00175,Very reasonable price.,price,positive
+RV00175,Arrived right on time.,punctuality,positive
+RV00176,One guy kept arguing with me.,staff_behaviour,negative
+RV00176,I have been using this for a month.,other,neutral
+RV00176,Fair rates for the quality.,price,positive
+RV00177,They explained everything patiently.,staff_behaviour,positive
+RV00177,"They were early, which I appreciated.",punctuality,positive
+RV00178,Friendly and helpful team.,staff_behaviour,positive
+RV00178,Loved how simple the app is.,booking_experience,positive
+RV00179,Good value for the money.,price,positive
+RV00179,Very professional staff.,staff_behaviour,positive
+RV00180,Loved how simple the app is.,booking_experience,positive
+RV00180,Fair rates for the quality.,price,positive
+RV00180,The car was spotless and shining.,wash_quality,positive
+RV00181,Cheaper than going to a car wash.,price,positive
+RV00181,I parked in the office basement.,other,neutral
+RV00181,Paying through the app was smooth.,booking_experience,positive
+RV00181,The crew was polite and respectful.,staff_behaviour,positive
+RV00182,Nobody came until the afternoon.,punctuality,negative
+RV00182,Not worth the money.,price,negative
+RV00183,They explained everything patiently.,staff_behaviour,positive
+RV00183,I parked in the office basement.,other,neutral
+RV00183,Arrived right on time.,punctuality,positive
+RV00184,I have been using this for a month.,other,neutral
+RV00184,Waited forever for the van to turn up.,punctuality,negative
+RV00184,Fair rates for the quality.,price,positive
+RV00185,Great finish on the paint.,wash_quality,positive
+RV00185,Paying through the app was smooth.,booking_experience,positive
+RV00186,Left water marks all over the windshield.,wash_quality,negative
+RV00186,"They were early, which I appreciated.",punctuality,positive
+RV00186,Way too expensive for a basic wash.,price,negative
+RV00187,Booking was quick and easy.,booking_experience,positive
+RV00187,Fair rates for the quality.,price,positive
+RV00188,The crew was rude and dismissive.,staff_behaviour,negative
+RV00188,Showed up well after the slot I booked.,punctuality,negative
+RV00189,Loved how simple the app is.,booking_experience,positive
+RV00189,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00190,Paying through the app was smooth.,booking_experience,positive
+RV00190,Fair rates for the quality.,wash_quality,positive
+RV00191,Windows were crystal clear.,wash_quality,positive
+RV00191,Very reasonable price.,price,positive
+RV00192,I parked in the office basement.,other,neutral
+RV00192,Paying through the app was smooth.,booking_experience,positive
+RV00192,"They were early, which I appreciated.",punctuality,positive
+RV00193,One guy kept arguing with me.,staff_behaviour,negative
+RV00193,Windows were crystal clear.,wash_quality,positive
+RV00194,The interior was barely cleaned.,wash_quality,negative
+RV00194,Rescheduling took seconds.,staff_behaviour,positive
+RV00195,The interior was barely cleaned.,wash_quality,negative
+RV00195,Paying through the app was smooth.,booking_experience,positive
+RV00196,Punctual and quick to start.,punctuality,positive
+RV00197,"They were early, which I appreciated.",punctuality,positive
+RV00198,Paying through the app was smooth.,booking_experience,positive
+RV00199,Booking was quick and easy.,price,negative
+RV00199,I parked in the office basement.,other,neutral
+RV00199,The bill was higher than quoted.,price,negative
+RV00200,They explained everything patiently.,staff_behaviour,positive
+RV00200,The interior was barely cleaned.,wash_quality,negative
+RV00201,Fair rates for the quality.,price,positive
+RV00201,Would tell my colleagues about it.,other,neutral
+RV00201,Could not reschedule my appointment.,booking_experience,negative
+RV00201,The crew arrived an hour late.,punctuality,negative
+RV00202,I parked in the office basement.,other,neutral
+RV00202,They explained everything patiently.,staff_behaviour,positive
+RV00203,Booking was quick and easy.,booking_experience,positive
+RV00203,Windows were crystal clear.,wash_quality,positive
+RV00204,Friendly and helpful team.,staff_behaviour,positive
+RV00204,Way too expensive for a basic wash.,price,negative
+RV00204,My paint has fresh scratches now.,wash_quality,negative
+RV00205,The crew was polite and respectful.,staff_behaviour,positive
+RV00205,Good value for the money.,price,positive
+RV00205,I have been using this for a month.,other,neutral
+RV00206,The crew was polite and respectful.,staff_behaviour,positive
+RV00206,The car still had dirt on the bumpers.,wash_quality,negative
+RV00206,Charged extra without telling me.,price,negative
+RV00206,I have been using this for a month.,other,neutral
+RV00207,Friendly and helpful team.,staff_behaviour,positive
+RV00207,The crew turned up exactly at my slot.,punctuality,positive
+RV00208,Friendly and helpful team.,other,positive
+RV00208,I have been using this for a month.,other,neutral
+RV00209,Arrived right on time.,punctuality,positive
+RV00209,Payment failed twice in the app.,booking_experience,negative
+RV00210,They were delayed and never called.,punctuality,negative
+RV00210,I have been using this for a month.,other,neutral
+RV00210,Booking was quick and easy.,booking_experience,positive
+RV00211,I have been using this for a month.,other,neutral
+RV00211,Booking was quick and easy.,punctuality,neutral
+RV00212,Way too expensive for a basic wash.,price,negative
+RV00212,I parked in the office basement.,other,neutral
+RV00212,Windows were crystal clear.,wash_quality,positive
+RV00213,The car was spotless and shining.,wash_quality,positive
+RV00213,Punctual and quick to start.,punctuality,positive
+RV00214,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00215,My paint has fresh scratches now.,wash_quality,negative
+RV00215,Cancelling was a hassle.,other,neutral
+RV00216,The car was spotless and shining.,wash_quality,positive
+RV00216,The crew turned up exactly at my slot.,punctuality,positive
+RV00217,Fair rates for the quality.,price,positive
+RV00217,The app crashed while booking.,booking_experience,negative
+RV00217,The crew was rude and dismissive.,staff_behaviour,negative
+RV00218,The crew was polite and respectful.,staff_behaviour,positive
+RV00218,The car was spotless and shining.,wash_quality,positive
+RV00218,Loved how simple the app is.,booking_experience,positive
+RV00218,I parked in the office basement.,other,neutral
+RV00219,Waited forever for the van to turn up.,punctuality,negative
+RV00220,The interior looked brand new.,wash_quality,positive
+RV00220,I parked in the office basement.,other,neutral
+RV00221,Way too expensive for a basic wash.,price,negative
+RV00221,The crew turned up exactly at my slot.,punctuality,positive
+RV00222,The interior looked brand new.,wash_quality,positive
+RV00222,Booking was quick and easy.,booking_experience,positive
+RV00223,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00223,Paying through the app was smooth.,booking_experience,positive
+RV00223,Nobody came until the afternoon.,punctuality,negative
+RV00224,Charged extra without telling me.,price,negative
+RV00224,Windows were crystal clear.,wash_quality,positive
+RV00225,Rescheduling took seconds.,booking_experience,positive
+RV00225,"They were early, which I appreciated.",punctuality,positive
+RV00226,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00226,Payment failed twice in the app.,booking_experience,negative
+RV00227,Windows were crystal clear.,wash_quality,positive
+RV00228,The interior looked brand new.,wash_quality,positive
+RV00228,Booking was quick and easy.,booking_experience,positive
+RV00229,They were delayed and never called.,punctuality,negative
+RV00229,Booking was quick and easy.,booking_experience,positive
+RV00229,I parked in the office basement.,other,neutral
+RV00229,One guy kept arguing with me.,booking_experience,positive
+RV00230,Punctual and quick to start.,punctuality,positive
+RV00230,Very professional staff.,staff_behaviour,positive
+RV00231,They explained everything patiently.,staff_behaviour,positive
+RV00231,My paint has fresh scratches now.,wash_quality,negative
+RV00231,Paying through the app was smooth.,booking_experience,positive
+RV00232,Arrived right on time.,punctuality,positive
+RV00232,Good value for the money.,price,positive
+RV00232,Loved how simple the app is.,booking_experience,positive
+RV00233,Punctual and quick to start.,price,positive
+RV00233,Charged extra without telling me.,price,negative
+RV00233,I have been using this for a month.,other,neutral
+RV00234,The car still had dirt on the bumpers.,wash_quality,negative
+RV00234,Loved how simple the app is.,booking_experience,positive
+RV00234,Very reasonable price.,price,positive
+RV00235,Booking was quick and easy.,booking_experience,positive
+RV00235,Nobody came until the afternoon.,punctuality,negative
+RV00236,Showed up well after the slot I booked.,punctuality,negative
+RV00237,Would tell my colleagues about it.,other,neutral
+RV00237,Windows were crystal clear.,wash_quality,positive
+RV00237,They ignored my instructions completely.,staff_behaviour,negative
+RV00238,The interior was barely cleaned.,wash_quality,negative
+RV00238,Cheaper than going to a car wash.,price,positive
+RV00238,"They were early, which I appreciated.",punctuality,positive
+RV00239,I have been using this for a month.,other,neutral
+RV00239,Great finish on the paint.,wash_quality,positive
+RV00239,Very reasonable price.,price,positive
+RV00239,They ignored my instructions completely.,staff_behaviour,negative
+RV00240,Fair rates for the quality.,price,positive
+RV00241,Friendly and helpful team.,staff_behaviour,positive
+RV00241,It was a Tuesday morning.,other,neutral
+RV00241,Way too expensive for a basic wash.,price,negative
+RV00242,The crew turned up exactly at my slot.,punctuality,positive
+RV00242,It was a Tuesday morning.,other,neutral
+RV00242,Cheaper than going to a car wash.,price,positive
+RV00242,Booking was quick and easy.,booking_experience,positive
+RV00243,The car was spotless and shining.,wash_quality,positive
+RV00243,Punctual and quick to start.,punctuality,positive
+RV00244,"They were early, which I appreciated.",punctuality,positive
+RV00244,Very reasonable price.,price,positive
+RV00244,The interior was barely cleaned.,wash_quality,negative
+RV00245,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00246,It was a Tuesday morning.,other,neutral
+RV00246,Paying through the app was smooth.,punctuality,neutral
+RV00246,Good value for the money.,staff_behaviour,positive
+RV00246,Punctual and quick to start.,punctuality,positive
+RV00247,Very reasonable price.,price,positive
+RV00247,Loved how simple the app is.,booking_experience,positive
+RV00248,The car was spotless and shining.,wash_quality,positive
+RV00248,It was a Tuesday morning.,other,neutral
+RV00248,They explained everything patiently.,staff_behaviour,positive
+RV00249,Good value for the money.,price,positive
+RV00249,The crew was polite and respectful.,staff_behaviour,positive
+RV00250,They explained everything patiently.,staff_behaviour,positive
+RV00250,Good value for the money.,price,positive
+RV00251,Booking was quick and easy.,booking_experience,positive
+RV00251,They explained everything patiently.,staff_behaviour,positive
+RV00252,Paying through the app was smooth.,booking_experience,positive
+RV00252,Great finish on the paint.,wash_quality,positive
+RV00253,Charged extra without telling me.,price,negative
+RV00253,Loved how simple the app is.,booking_experience,positive
+RV00253,Very professional staff.,staff_behaviour,positive
+RV00254,They explained everything patiently.,staff_behaviour,positive
+RV00254,The crew turned up exactly at my slot.,punctuality,positive
+RV00255,Paying through the app was smooth.,booking_experience,positive
+RV00255,Very professional staff.,staff_behaviour,positive
+RV00255,My paint has fresh scratches now.,wash_quality,negative
+RV00256,I parked in the office basement.,other,neutral
+RV00256,Windows were crystal clear.,staff_behaviour,negative
+RV00256,One guy kept arguing with me.,staff_behaviour,negative
+RV00256,Could not reschedule my appointment.,booking_experience,negative
+RV00257,The bill was higher than quoted.,price,negative
+RV00257,"They were early, which I appreciated.",wash_quality,positive
+RV00258,The crew was rude and dismissive.,staff_behaviour,negative
+RV00258,The crew turned up exactly at my slot.,punctuality,positive
+RV00259,The interior looked brand new.,wash_quality,positive
+RV00259,"They were early, which I appreciated.",punctuality,positive
+RV00260,The bill was higher than quoted.,price,negative
+RV00260,Friendly and helpful team.,staff_behaviour,positive
+RV00260,I parked in the office basement.,other,neutral
+RV00261,Cheaper than going to a car wash.,price,positive
+RV00262,Arrived right on time.,punctuality,positive
+RV00262,I have been using this for a month.,other,neutral
+RV00263,They explained everything patiently.,staff_behaviour,positive
+RV00263,Arrived right on time.,punctuality,positive
+RV00264,The crew was rude and dismissive.,staff_behaviour,negative
+RV00265,The crew was polite and respectful.,staff_behaviour,positive
+RV00265,Good value for the money.,other,negative
+RV00266,Loved how simple the app is.,booking_experience,positive
+RV00267,I parked in the office basement.,other,neutral
+RV00267,Way too expensive for a basic wash.,price,negative
+RV00267,The interior looked brand new.,wash_quality,positive
+RV00268,I parked in the office basement.,other,neutral
+RV00268,Arrived right on time.,punctuality,positive
+RV00269,Friendly and helpful team.,staff_behaviour,positive
+RV00269,It was a Tuesday morning.,other,neutral
+RV00270,Way too expensive for a basic wash.,price,negative
+RV00270,Great finish on the paint.,other,positive
+RV00270,Nobody came until the afternoon.,punctuality,negative
+RV00271,Booking was quick and easy.,booking_experience,positive
+RV00271,Would tell my colleagues about it.,other,neutral
+RV00271,The bill was higher than quoted.,price,negative
+RV00272,Good value for the money.,price,positive
+RV00273,The crew turned up exactly at my slot.,punctuality,positive
+RV00274,Arrived right on time.,punctuality,positive
+RV00274,Paying through the app was smooth.,booking_experience,positive
+RV00274,The interior looked brand new.,wash_quality,positive
+RV00275,It was a Tuesday morning.,other,neutral
+RV00275,Very reasonable price.,punctuality,positive
+RV00276,The interior looked brand new.,wash_quality,positive
+RV00276,Paying through the app was smooth.,booking_experience,positive
+RV00277,Charged extra without telling me.,price,negative
+RV00277,Waited forever for the van to turn up.,punctuality,negative
+RV00278,It was a Tuesday morning.,other,neutral
+RV00278,"They were early, which I appreciated.",punctuality,positive
+RV00279,The car was spotless and shining.,wash_quality,positive
+RV00279,Very reasonable price.,price,positive
+RV00280,Very reasonable price.,price,positive
+RV00280,"They were early, which I appreciated.",punctuality,positive
+RV00281,"They were early, which I appreciated.",punctuality,positive
+RV00281,The interior looked brand new.,wash_quality,positive
+RV00282,The interior looked brand new.,wash_quality,positive
+RV00282,Not worth the money.,price,negative
+RV00283,The interior looked brand new.,wash_quality,positive
+RV00283,Very professional staff.,staff_behaviour,positive
+RV00284,I have been using this for a month.,other,neutral
+RV00284,Cancelling was a hassle.,booking_experience,negative
+RV00285,Nobody came until the afternoon.,punctuality,negative
+RV00285,They ignored my instructions completely.,staff_behaviour,negative
+RV00285,I parked in the office basement.,other,neutral
+RV00286,Would tell my colleagues about it.,other,neutral
+RV00286,Very reasonable price.,price,positive
+RV00286,Punctual and quick to start.,punctuality,positive
+RV00287,One guy kept arguing with me.,staff_behaviour,negative
+RV00287,The car was spotless and shining.,wash_quality,positive
+RV00288,Cancelling was a hassle.,booking_experience,negative
+RV00288,The interior looked brand new.,wash_quality,positive
+RV00289,Friendly and helpful team.,staff_behaviour,positive
+RV00289,Not worth the money.,price,negative
+RV00290,One guy kept arguing with me.,staff_behaviour,negative
+RV00291,Paying through the app was smooth.,booking_experience,positive
+RV00291,Nobody came until the afternoon.,punctuality,negative
+RV00291,Good value for the money.,price,positive
+RV00292,Payment failed twice in the app.,booking_experience,negative
+RV00292,Very professional staff.,staff_behaviour,positive
+RV00293,Loved how simple the app is.,booking_experience,positive
+RV00293,The crew turned up exactly at my slot.,punctuality,positive
+RV00294,The car still had dirt on the bumpers.,wash_quality,negative
+RV00294,Punctual and quick to start.,punctuality,positive
+RV00294,Payment failed twice in the app.,booking_experience,negative
+RV00295,Booking was quick and easy.,booking_experience,positive
+RV00295,Arrived right on time.,punctuality,positive
+RV00295,The crew was polite and respectful.,staff_behaviour,positive
+RV00296,Very reasonable price.,price,positive
+RV00296,Loved how simple the app is.,booking_experience,positive
+RV00296,It was a Tuesday morning.,other,neutral
+RV00297,Windows were crystal clear.,wash_quality,positive
+RV00297,The crew arrived an hour late.,punctuality,negative
+RV00298,Great finish on the paint.,wash_quality,positive
+RV00298,Charged extra without telling me.,price,negative
+RV00299,Nobody came until the afternoon.,punctuality,negative
+RV00299,Rescheduling took seconds.,booking_experience,positive
+RV00299,The interior looked brand new.,wash_quality,positive
+RV00300,Cheaper than going to a car wash.,price,positive
+RV00300,Loved how simple the app is.,booking_experience,positive
+RV00301,Good value for the money.,price,positive
+RV00301,They explained everything patiently.,staff_behaviour,positive
+RV00302,The crew turned up exactly at my slot.,punctuality,positive
+RV00302,Good value for the money.,price,positive
+RV00302,I have been using this for a month.,staff_behaviour,positive
+RV00302,Booking was quick and easy.,booking_experience,positive
+RV00303,They explained everything patiently.,staff_behaviour,positive
+RV00303,My paint has fresh scratches now.,wash_quality,negative
+RV00303,The app crashed while booking.,booking_experience,negative
+RV00304,Loved how simple the app is.,booking_experience,positive
+RV00304,Great finish on the paint.,wash_quality,positive
+RV00305,One guy kept arguing with me.,staff_behaviour,negative
+RV00305,The interior looked brand new.,other,neutral
+RV00306,Rescheduling took seconds.,booking_experience,positive
+RV00307,Rescheduling took seconds.,booking_experience,positive
+RV00307,Friendly and helpful team.,staff_behaviour,positive
+RV00307,Punctual and quick to start.,punctuality,positive
+RV00308,Loved how simple the app is.,booking_experience,positive
+RV00308,I parked in the office basement.,other,neutral
+RV00309,"They were early, which I appreciated.",punctuality,negative
+RV00309,Charged extra without telling me.,price,negative
+RV00310,Great finish on the paint.,other,positive
+RV00310,Waited forever for the van to turn up.,punctuality,negative
+RV00311,Great finish on the paint.,wash_quality,positive
+RV00311,"They were early, which I appreciated.",punctuality,positive
+RV00311,It was a Tuesday morning.,other,neutral
+RV00312,I have been using this for a month.,other,neutral
+RV00312,They ignored my instructions completely.,staff_behaviour,negative
+RV00312,The car was spotless and shining.,wash_quality,positive
+RV00313,The crew turned up exactly at my slot.,punctuality,positive
+RV00314,Cheaper than going to a car wash.,price,positive
+RV00315,Loved how simple the app is.,booking_experience,positive
+RV00315,They explained everything patiently.,staff_behaviour,positive
+RV00315,Very reasonable price.,price,positive
+RV00316,Arrived right on time.,punctuality,positive
+RV00317,They explained everything patiently.,staff_behaviour,positive
+RV00317,Nobody came until the afternoon.,punctuality,negative
+RV00317,Cheaper than going to a car wash.,price,positive
+RV00318,They explained everything patiently.,staff_behaviour,positive
+RV00318,The interior looked brand new.,wash_quality,positive
+RV00318,Fair rates for the quality.,price,positive
+RV00319,Fair rates for the quality.,price,positive
+RV00319,The crew was polite and respectful.,staff_behaviour,positive
+RV00319,Would tell my colleagues about it.,other,neutral
+RV00319,The crew turned up exactly at my slot.,punctuality,positive
+RV00320,"They were early, which I appreciated.",punctuality,positive
+RV00320,Would tell my colleagues about it.,other,neutral
+RV00320,Loved how simple the app is.,booking_experience,positive
+RV00321,The car was spotless and shining.,wash_quality,positive
+RV00321,"They were early, which I appreciated.",punctuality,positive
+RV00322,Punctual and quick to start.,punctuality,positive
+RV00323,Rescheduling took seconds.,booking_experience,positive
+RV00323,Windows were crystal clear.,wash_quality,positive
+RV00323,I have been using this for a month.,other,neutral
+RV00324,Paying through the app was smooth.,booking_experience,positive
+RV00324,Friendly and helpful team.,staff_behaviour,positive
+RV00325,The crew turned up exactly at my slot.,punctuality,positive
+RV00325,Good value for the money.,price,positive
+RV00326,The crew was rude and dismissive.,staff_behaviour,negative
+RV00327,One guy kept arguing with me.,staff_behaviour,negative
+RV00327,Cheaper than going to a car wash.,price,positive
+RV00328,Rescheduling took seconds.,booking_experience,positive
+RV00328,I have been using this for a month.,other,neutral
+RV00328,Left water marks all over the windshield.,wash_quality,negative
+RV00329,Cheaper than going to a car wash.,price,positive
+RV00330,It was a Tuesday morning.,other,neutral
+RV00330,Cheaper than going to a car wash.,price,positive
+RV00330,Great finish on the paint.,wash_quality,positive
+RV00331,Very professional staff.,staff_behaviour,positive
+RV00331,Cheaper than going to a car wash.,price,positive
+RV00331,Would tell my colleagues about it.,other,neutral
+RV00331,Punctual and quick to start.,punctuality,positive
+RV00332,Friendly and helpful team.,staff_behaviour,positive
+RV00332,Loved how simple the app is.,booking_experience,positive
+RV00332,The interior looked brand new.,wash_quality,positive
+RV00333,Great finish on the paint.,wash_quality,positive
+RV00334,Would tell my colleagues about it.,other,neutral
+RV00334,Way too expensive for a basic wash.,price,negative
+RV00334,Friendly and helpful team.,staff_behaviour,positive
+RV00335,The crew turned up exactly at my slot.,punctuality,positive
+RV00335,They explained everything patiently.,staff_behaviour,positive
+RV00336,Paying through the app was smooth.,booking_experience,positive
+RV00336,Fair rates for the quality.,price,positive
+RV00337,Very reasonable price.,price,positive
+RV00337,Payment failed twice in the app.,booking_experience,negative
+RV00337,Would tell my colleagues about it.,other,neutral
+RV00338,Charged extra without telling me.,price,positive
+RV00338,The car was spotless and shining.,wash_quality,positive
+RV00338,It was a Tuesday morning.,other,neutral
+RV00338,The crew was rude and dismissive.,staff_behaviour,negative
+RV00339,Fair rates for the quality.,price,positive
+RV00339,Showed up well after the slot I booked.,punctuality,negative
+RV00340,They explained everything patiently.,staff_behaviour,positive
+RV00341,Very professional staff.,staff_behaviour,positive
+RV00341,Rescheduling took seconds.,booking_experience,positive
+RV00341,Windows were crystal clear.,wash_quality,positive
+RV00342,The crew turned up exactly at my slot.,punctuality,positive
+RV00343,Punctual and quick to start.,punctuality,positive
+RV00343,My paint has fresh scratches now.,wash_quality,negative
+RV00343,Friendly and helpful team.,staff_behaviour,positive
+RV00344,Would tell my colleagues about it.,other,neutral
+RV00344,Friendly and helpful team.,staff_behaviour,positive
+RV00344,Punctual and quick to start.,punctuality,positive
+RV00345,The app crashed while booking.,booking_experience,negative
+RV00345,I have been using this for a month.,other,neutral
+RV00345,Way too expensive for a basic wash.,punctuality,negative
+RV00346,The bill was higher than quoted.,price,negative
+RV00347,It was a Tuesday morning.,other,neutral
+RV00347,One guy kept arguing with me.,staff_behaviour,negative
+RV00348,I have been using this for a month.,other,neutral
+RV00348,"They were early, which I appreciated.",punctuality,positive
+RV00348,Charged extra without telling me.,price,negative
+RV00349,Would tell my colleagues about it.,other,neutral
+RV00349,The car was spotless and shining.,wash_quality,positive
+RV00349,The crew was polite and respectful.,staff_behaviour,positive
+RV00350,Would tell my colleagues about it.,other,neutral
+RV00350,The interior looked brand new.,wash_quality,positive
+RV00351,The car still had dirt on the bumpers.,other,negative
+RV00351,Loved how simple the app is.,booking_experience,positive
+RV00351,Cheaper than going to a car wash.,price,positive
+RV00352,Windows were crystal clear.,wash_quality,positive
+RV00352,Cheaper than going to a car wash.,price,positive
+RV00353,They explained everything patiently.,staff_behaviour,positive
+RV00353,I parked in the office basement.,other,neutral
+RV00353,Paying through the app was smooth.,booking_experience,positive
+RV00353,Good value for the money.,price,positive
+RV00354,Great finish on the paint.,wash_quality,positive
+RV00354,It was a Tuesday morning.,other,neutral
+RV00354,Very professional staff.,staff_behaviour,positive
+RV00354,The crew arrived an hour late.,punctuality,negative
+RV00355,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00355,The crew arrived an hour late.,punctuality,negative
+RV00356,One guy kept arguing with me.,staff_behaviour,negative
+RV00356,The crew arrived an hour late.,punctuality,negative
+RV00357,Punctual and quick to start.,punctuality,positive
+RV00357,Could not reschedule my appointment.,booking_experience,negative
+RV00357,The crew was polite and respectful.,staff_behaviour,positive
+RV00358,Paying through the app was smooth.,booking_experience,positive
+RV00358,The interior looked brand new.,wash_quality,positive
+RV00359,The interior looked brand new.,wash_quality,positive
+RV00359,Cheaper than going to a car wash.,price,positive
+RV00360,Loved how simple the app is.,booking_experience,positive
+RV00360,The interior looked brand new.,wash_quality,positive
+RV00361,I parked in the office basement.,other,neutral
+RV00361,Payment failed twice in the app.,other,neutral
+RV00362,Payment failed twice in the app.,booking_experience,negative
+RV00362,The crew turned up exactly at my slot.,punctuality,positive
+RV00363,The crew turned up exactly at my slot.,booking_experience,neutral
+RV00363,The crew was polite and respectful.,staff_behaviour,positive
+RV00364,Very professional staff.,staff_behaviour,positive
+RV00365,Way too expensive for a basic wash.,price,negative
+RV00366,Would tell my colleagues about it.,other,neutral
+RV00366,Cancelling was a hassle.,price,neutral
+RV00366,The car was spotless and shining.,wash_quality,positive
+RV00367,Good value for the money.,price,positive
+RV00367,Windows were crystal clear.,wash_quality,positive
+RV00367,Loved how simple the app is.,booking_experience,positive
+RV00367,Would tell my colleagues about it.,other,neutral
+RV00368,Loved how simple the app is.,booking_experience,positive
+RV00368,"They were early, which I appreciated.",punctuality,positive
+RV00369,The crew turned up exactly at my slot.,punctuality,positive
+RV00370,Very professional staff.,staff_behaviour,positive
+RV00370,Arrived right on time.,punctuality,positive
+RV00370,I parked in the office basement.,other,neutral
+RV00371,Would tell my colleagues about it.,other,neutral
+RV00371,Way too expensive for a basic wash.,price,positive
+RV00371,Arrived right on time.,punctuality,positive
+RV00372,Cancelling was a hassle.,booking_experience,negative
+RV00372,They were delayed and never called.,punctuality,negative
+RV00373,Booking was quick and easy.,booking_experience,positive
+RV00373,Not worth the money.,other,neutral
+RV00374,The interior looked brand new.,wash_quality,positive
+RV00374,They explained everything patiently.,staff_behaviour,positive
+RV00375,Great finish on the paint.,wash_quality,positive
+RV00375,They explained everything patiently.,staff_behaviour,positive
+RV00375,The crew turned up exactly at my slot.,punctuality,positive
+RV00376,Friendly and helpful team.,staff_behaviour,positive
+RV00376,Great finish on the paint.,wash_quality,positive
+RV00377,Windows were crystal clear.,wash_quality,positive
+RV00377,Punctual and quick to start.,punctuality,positive
+RV00378,The crew turned up exactly at my slot.,punctuality,positive
+RV00378,The interior looked brand new.,wash_quality,positive
+RV00379,Way too expensive for a basic wash.,price,negative
+RV00379,Friendly and helpful team.,staff_behaviour,positive
+RV00379,Left water marks all over the windshield.,wash_quality,negative
+RV00380,Windows were crystal clear.,wash_quality,positive
+RV00381,Paying through the app was smooth.,booking_experience,positive
+RV00381,Fair rates for the quality.,price,positive
+RV00382,Windows were crystal clear.,wash_quality,positive
+RV00383,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00384,Very reasonable price.,price,positive
+RV00384,Great finish on the paint.,wash_quality,positive
+RV00385,Could not reschedule my appointment.,booking_experience,negative
+RV00385,Very reasonable price.,price,positive
+RV00386,They were delayed and never called.,punctuality,negative
+RV00386,Booking was quick and easy.,booking_experience,positive
+RV00387,The crew turned up exactly at my slot.,punctuality,positive
+RV00387,Way too expensive for a basic wash.,price,negative
+RV00387,Left water marks all over the windshield.,wash_quality,negative
+RV00388,They were delayed and never called.,punctuality,negative
+RV00388,The crew was polite and respectful.,staff_behaviour,positive
+RV00389,Loved how simple the app is.,booking_experience,positive
+RV00390,Waited forever for the van to turn up.,punctuality,negative
+RV00390,The car still had dirt on the bumpers.,wash_quality,negative
+RV00391,They explained everything patiently.,staff_behaviour,positive
+RV00391,The car was spotless and shining.,wash_quality,positive
+RV00392,I parked in the office basement.,other,neutral
+RV00392,Very reasonable price.,price,positive
+RV00393,The app crashed while booking.,booking_experience,negative
+RV00393,Punctual and quick to start.,punctuality,positive
+RV00394,Good value for the money.,punctuality,neutral
+RV00394,Windows were crystal clear.,wash_quality,positive
+RV00395,Windows were crystal clear.,wash_quality,positive
+RV00396,Punctual and quick to start.,punctuality,positive
+RV00396,The interior looked brand new.,wash_quality,positive
+RV00397,The interior was barely cleaned.,wash_quality,negative
+RV00398,Fair rates for the quality.,price,positive
+RV00398,The interior looked brand new.,booking_experience,positive
+RV00398,They were delayed and never called.,punctuality,negative
+RV00399,Windows were crystal clear.,wash_quality,positive
+RV00399,The crew arrived an hour late.,punctuality,negative
+RV00400,They explained everything patiently.,staff_behaviour,positive
+RV00401,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00401,Not worth the money.,price,negative
+RV00402,Good value for the money.,price,positive
+RV00402,It was a Tuesday morning.,other,neutral
+RV00403,The crew arrived an hour late.,punctuality,negative
+RV00403,The car was spotless and shining.,wash_quality,positive
+RV00404,Would tell my colleagues about it.,other,neutral
+RV00404,Rescheduling took seconds.,booking_experience,positive
+RV00405,Payment failed twice in the app.,booking_experience,negative
+RV00405,The crew arrived an hour late.,punctuality,negative
+RV00405,The crew was rude and dismissive.,staff_behaviour,negative
+RV00406,The crew was polite and respectful.,staff_behaviour,positive
+RV00406,Punctual and quick to start.,punctuality,positive
+RV00406,It was a Tuesday morning.,other,neutral
+RV00407,Windows were crystal clear.,wash_quality,positive
+RV00407,The crew was polite and respectful.,staff_behaviour,positive
+RV00407,Loved how simple the app is.,booking_experience,positive
+RV00408,Not worth the money.,price,negative
+RV00408,Waited forever for the van to turn up.,punctuality,negative
+RV00408,Windows were crystal clear.,wash_quality,positive
+RV00409,The car was spotless and shining.,wash_quality,positive
+RV00409,Very professional staff.,staff_behaviour,positive
+RV00410,Loved how simple the app is.,booking_experience,positive
+RV00410,Fair rates for the quality.,price,positive
+RV00410,Showed up well after the slot I booked.,punctuality,negative
+RV00411,Booking was quick and easy.,booking_experience,positive
+RV00412,The bill was higher than quoted.,price,negative
+RV00412,I have been using this for a month.,other,neutral
+RV00413,Loved how simple the app is.,booking_experience,positive
+RV00413,Punctual and quick to start.,punctuality,positive
+RV00414,Rescheduling took seconds.,booking_experience,positive
+RV00414,Very professional staff.,staff_behaviour,positive
+RV00415,Would tell my colleagues about it.,other,neutral
+RV00415,The crew was polite and respectful.,staff_behaviour,positive
+RV00416,Paying through the app was smooth.,booking_experience,positive
+RV00416,Fair rates for the quality.,price,positive
+RV00417,The crew was rude and dismissive.,staff_behaviour,negative
+RV00417,The bill was higher than quoted.,price,negative
+RV00417,The car still had dirt on the bumpers.,wash_quality,negative
+RV00418,Great finish on the paint.,wash_quality,positive
+RV00418,Paying through the app was smooth.,booking_experience,positive
+RV00418,Way too expensive for a basic wash.,punctuality,positive
+RV00419,Nobody came until the afternoon.,punctuality,negative
+RV00419,Rescheduling took seconds.,booking_experience,positive
+RV00419,The crew was polite and respectful.,staff_behaviour,positive
+RV00420,Rescheduling took seconds.,price,positive
+RV00421,Rescheduling took seconds.,booking_experience,positive
+RV00421,The crew was polite and respectful.,staff_behaviour,positive
+RV00421,The interior looked brand new.,wash_quality,positive
+RV00422,I have been using this for a month.,other,neutral
+RV00422,The crew was polite and respectful.,staff_behaviour,positive
+RV00423,The crew was rude and dismissive.,staff_behaviour,negative
+RV00423,Loved how simple the app is.,booking_experience,positive
+RV00424,The car was spotless and shining.,wash_quality,positive
+RV00424,Very reasonable price.,price,positive
+RV00425,The interior looked brand new.,wash_quality,positive
+RV00425,The crew was polite and respectful.,staff_behaviour,positive
+RV00425,Payment failed twice in the app.,booking_experience,negative
+RV00425,It was a Tuesday morning.,other,neutral
+RV00426,They ignored my instructions completely.,staff_behaviour,negative
+RV00426,Fair rates for the quality.,price,positive
+RV00426,Punctual and quick to start.,punctuality,positive
+RV00427,Paying through the app was smooth.,booking_experience,positive
+RV00427,The crew was polite and respectful.,staff_behaviour,positive
+RV00428,The crew was polite and respectful.,staff_behaviour,positive
+RV00428,Loved how simple the app is.,booking_experience,positive
+RV00429,Booking was quick and easy.,booking_experience,positive
+RV00429,The crew was rude and dismissive.,staff_behaviour,negative
+RV00430,The crew turned up exactly at my slot.,punctuality,positive
+RV00431,They were delayed and never called.,punctuality,negative
+RV00431,The car was spotless and shining.,wash_quality,positive
+RV00432,Windows were crystal clear.,wash_quality,positive
+RV00432,They explained everything patiently.,staff_behaviour,positive
+RV00433,Cancelling was a hassle.,booking_experience,negative
+RV00433,I have been using this for a month.,other,neutral
+RV00433,The bill was higher than quoted.,price,negative
+RV00434,Good value for the money.,price,positive
+RV00434,Arrived right on time.,punctuality,positive
+RV00435,Very reasonable price.,price,positive
+RV00435,Booking was quick and easy.,booking_experience,positive
+RV00435,Would tell my colleagues about it.,other,neutral
+RV00435,Windows were crystal clear.,wash_quality,positive
+RV00436,Punctual and quick to start.,punctuality,positive
+RV00436,Good value for the money.,price,positive
+RV00437,The crew turned up exactly at my slot.,punctuality,positive
+RV00437,Fair rates for the quality.,price,positive
+RV00437,I have been using this for a month.,other,neutral
+RV00438,The app crashed while booking.,booking_experience,negative
+RV00438,Very reasonable price.,price,positive
+RV00439,Booking was quick and easy.,booking_experience,positive
+RV00439,Windows were crystal clear.,wash_quality,positive
+RV00440,Arrived right on time.,punctuality,positive
+RV00440,The car still had dirt on the bumpers.,wash_quality,negative
+RV00441,Great finish on the paint.,wash_quality,positive
+RV00441,"They were early, which I appreciated.",punctuality,positive
+RV00442,They were delayed and never called.,punctuality,negative
+RV00442,Payment failed twice in the app.,booking_experience,negative
+RV00443,Rescheduling took seconds.,booking_experience,positive
+RV00443,The car still had dirt on the bumpers.,wash_quality,negative
+RV00443,The crew arrived an hour late.,punctuality,negative
+RV00444,Booking was quick and easy.,booking_experience,positive
+RV00444,They explained everything patiently.,staff_behaviour,positive
+RV00444,Great finish on the paint.,wash_quality,positive
+RV00445,Charged extra without telling me.,price,negative
+RV00445,Left water marks all over the windshield.,wash_quality,negative
+RV00446,Punctual and quick to start.,punctuality,positive
+RV00446,Would tell my colleagues about it.,other,neutral
+RV00447,The app crashed while booking.,booking_experience,negative
+RV00448,The crew was rude and dismissive.,staff_behaviour,negative
+RV00448,Cheaper than going to a car wash.,price,positive
+RV00449,Very reasonable price.,price,positive
+RV00450,Cheaper than going to a car wash.,price,positive
+RV00450,I have been using this for a month.,other,neutral
+RV00450,Left water marks all over the windshield.,wash_quality,negative
+RV00450,Could not reschedule my appointment.,booking_experience,negative
+RV00451,Cancelling was a hassle.,booking_experience,negative
+RV00451,Great finish on the paint.,wash_quality,positive
+RV00452,Friendly and helpful team.,staff_behaviour,positive
+RV00452,Great finish on the paint.,wash_quality,positive
+RV00453,Fair rates for the quality.,price,positive
+RV00454,Very reasonable price.,price,positive
+RV00455,Payment failed twice in the app.,booking_experience,negative
+RV00455,The crew was rude and dismissive.,staff_behaviour,negative
+RV00455,It was a Tuesday morning.,other,neutral
+RV00456,The car was spotless and shining.,wash_quality,positive
+RV00456,Cheaper than going to a car wash.,price,positive
+RV00456,The crew was polite and respectful.,staff_behaviour,positive
+RV00457,Booking was quick and easy.,booking_experience,positive
+RV00458,Rescheduling took seconds.,booking_experience,positive
+RV00458,"They were early, which I appreciated.",punctuality,positive
+RV00459,Good value for the money.,price,positive
+RV00460,Very professional staff.,staff_behaviour,positive
+RV00460,Booking was quick and easy.,booking_experience,positive
+RV00461,It was a Tuesday morning.,other,neutral
+RV00461,They ignored my instructions completely.,staff_behaviour,negative
+RV00461,Very reasonable price.,price,positive
+RV00462,Great finish on the paint.,wash_quality,positive
+RV00463,Very reasonable price.,price,positive
+RV00463,The crew was polite and respectful.,staff_behaviour,positive
+RV00463,I parked in the office basement.,other,neutral
+RV00464,Would tell my colleagues about it.,other,neutral
+RV00464,Rescheduling took seconds.,booking_experience,positive
+RV00464,Good value for the money.,price,positive
+RV00465,Left water marks all over the windshield.,wash_quality,negative
+RV00465,Rescheduling took seconds.,booking_experience,positive
+RV00466,Rescheduling took seconds.,booking_experience,positive
+RV00466,My paint has fresh scratches now.,wash_quality,negative
+RV00467,Paying through the app was smooth.,other,positive
+RV00467,"They were early, which I appreciated.",punctuality,positive
+RV00468,Fair rates for the quality.,price,positive
+RV00468,Friendly and helpful team.,staff_behaviour,positive
+RV00469,Very reasonable price.,price,positive
+RV00469,The crew turned up exactly at my slot.,punctuality,positive
+RV00470,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00470,Arrived right on time.,punctuality,positive
+RV00471,Fair rates for the quality.,price,positive
+RV00471,Would tell my colleagues about it.,other,neutral
+RV00471,The interior looked brand new.,wash_quality,positive
+RV00472,Paying through the app was smooth.,booking_experience,positive
+RV00472,My paint has fresh scratches now.,wash_quality,negative
+RV00472,The bill was higher than quoted.,price,negative
+RV00473,Punctual and quick to start.,staff_behaviour,positive
+RV00473,Paying through the app was smooth.,booking_experience,positive
+RV00473,It was a Tuesday morning.,other,neutral
+RV00473,Great finish on the paint.,wash_quality,positive
+RV00474,Waited forever for the van to turn up.,punctuality,negative
+RV00475,The interior was barely cleaned.,wash_quality,negative
+RV00475,Good value for the money.,price,positive
+RV00476,Very reasonable price.,price,positive
+RV00476,The car was spotless and shining.,wash_quality,positive
+RV00476,Paying through the app was smooth.,staff_behaviour,neutral
+RV00477,Friendly and helpful team.,staff_behaviour,positive
+RV00477,The crew arrived an hour late.,punctuality,negative
+RV00478,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00478,Would tell my colleagues about it.,other,neutral
+RV00478,Booking was quick and easy.,booking_experience,positive
+RV00479,Booking was quick and easy.,booking_experience,positive
+RV00479,Showed up well after the slot I booked.,punctuality,negative
+RV00480,The crew was rude and dismissive.,staff_behaviour,negative
+RV00480,Not worth the money.,price,negative
+RV00480,I parked in the office basement.,other,neutral
+RV00481,They were delayed and never called.,punctuality,negative
+RV00482,Would tell my colleagues about it.,other,neutral
+RV00482,Not worth the money.,price,negative
+RV00483,Left water marks all over the windshield.,wash_quality,negative
+RV00483,They explained everything patiently.,staff_behaviour,positive
+RV00484,The crew turned up exactly at my slot.,punctuality,positive
+RV00484,The app crashed while booking.,booking_experience,negative
+RV00485,Loved how simple the app is.,booking_experience,positive
+RV00485,Would tell my colleagues about it.,other,neutral
+RV00485,Very reasonable price.,price,positive
+RV00486,Cheaper than going to a car wash.,price,positive
+RV00486,Showed up well after the slot I booked.,punctuality,negative
+RV00487,Cheaper than going to a car wash.,price,positive
+RV00487,I have been using this for a month.,other,neutral
+RV00487,Windows were crystal clear.,wash_quality,positive
+RV00488,Very reasonable price.,price,positive
+RV00488,It was a Tuesday morning.,other,neutral
+RV00489,Punctual and quick to start.,punctuality,positive
+RV00489,They ignored my instructions completely.,staff_behaviour,negative
+RV00489,It was a Tuesday morning.,other,neutral
+RV00490,They explained everything patiently.,staff_behaviour,positive
+RV00490,It was a Tuesday morning.,other,neutral
+RV00490,Fair rates for the quality.,price,positive
+RV00491,Arrived right on time.,punctuality,positive
+RV00492,Very professional staff.,staff_behaviour,positive
+RV00492,The car was spotless and shining.,wash_quality,positive
+RV00493,Arrived right on time.,punctuality,positive
+RV00494,Not worth the money.,price,negative
+RV00494,The crew turned up exactly at my slot.,punctuality,positive
+RV00494,Loved how simple the app is.,booking_experience,positive
+RV00495,Not worth the money.,price,negative
+RV00495,They explained everything patiently.,staff_behaviour,positive
+RV00495,Windows were crystal clear.,wash_quality,positive
+RV00496,They explained everything patiently.,staff_behaviour,positive
+RV00496,"They were early, which I appreciated.",punctuality,positive
+RV00497,Arrived right on time.,punctuality,positive
+RV00497,Booking was quick and easy.,other,neutral
+RV00498,Rescheduling took seconds.,booking_experience,positive
+RV00498,The crew was polite and respectful.,staff_behaviour,positive
+RV00498,"They were early, which I appreciated.",punctuality,positive
+RV00499,The crew was rude and dismissive.,staff_behaviour,negative
+RV00499,Paying through the app was smooth.,booking_experience,neutral
+RV00500,It was a Tuesday morning.,other,neutral
+RV00500,Booking was quick and easy.,booking_experience,positive
+RV00500,Punctual and quick to start.,punctuality,positive
+RV00501,Good value for the money.,price,positive
+RV00501,Windows were crystal clear.,wash_quality,positive
+RV00502,The crew was polite and respectful.,staff_behaviour,positive
+RV00502,Loved how simple the app is.,booking_experience,positive
+RV00502,Cheaper than going to a car wash.,price,positive
+RV00502,Would tell my colleagues about it.,other,neutral
+RV00503,The crew was polite and respectful.,staff_behaviour,positive
+RV00503,Would tell my colleagues about it.,other,neutral
+RV00503,The car still had dirt on the bumpers.,wash_quality,negative
+RV00504,Would tell my colleagues about it.,other,neutral
+RV00504,Left water marks all over the windshield.,wash_quality,negative
+RV00505,Waited forever for the van to turn up.,punctuality,negative
+RV00506,Friendly and helpful team.,staff_behaviour,positive
+RV00506,Nobody came until the afternoon.,punctuality,negative
+RV00506,The car was spotless and shining.,wash_quality,positive
+RV00507,Punctual and quick to start.,punctuality,positive
+RV00507,Not worth the money.,price,negative
+RV00507,Left water marks all over the windshield.,wash_quality,negative
+RV00508,The interior looked brand new.,wash_quality,positive
+RV00508,Good value for the money.,price,positive
+RV00508,Booking was quick and easy.,booking_experience,positive
+RV00509,Very reasonable price.,price,positive
+RV00509,They explained everything patiently.,staff_behaviour,positive
+RV00510,Friendly and helpful team.,staff_behaviour,positive
+RV00510,Loved how simple the app is.,booking_experience,positive
+RV00510,Punctual and quick to start.,punctuality,positive
+RV00511,Cheaper than going to a car wash.,price,positive
+RV00511,Punctual and quick to start.,punctuality,positive
+RV00511,They explained everything patiently.,staff_behaviour,positive
+RV00512,Very reasonable price.,price,positive
+RV00512,Waited forever for the van to turn up.,punctuality,negative
+RV00512,I parked in the office basement.,other,neutral
+RV00513,Would tell my colleagues about it.,other,neutral
+RV00513,Great finish on the paint.,wash_quality,positive
+RV00513,They explained everything patiently.,staff_behaviour,positive
+RV00514,I parked in the office basement.,other,neutral
+RV00514,Paying through the app was smooth.,booking_experience,positive
+RV00514,The crew turned up exactly at my slot.,punctuality,positive
+RV00515,"They were early, which I appreciated.",punctuality,positive
+RV00516,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00516,Waited forever for the van to turn up.,punctuality,negative
+RV00516,Very professional staff.,staff_behaviour,positive
+RV00517,The crew turned up exactly at my slot.,punctuality,positive
+RV00517,Friendly and helpful team.,staff_behaviour,positive
+RV00518,I have been using this for a month.,other,neutral
+RV00518,The interior looked brand new.,wash_quality,positive
+RV00518,Fair rates for the quality.,price,positive
+RV00519,Nobody came until the afternoon.,punctuality,negative
+RV00520,The interior looked brand new.,wash_quality,positive
+RV00520,They were delayed and never called.,punctuality,negative
+RV00521,One guy kept arguing with me.,staff_behaviour,negative
+RV00522,They explained everything patiently.,staff_behaviour,positive
+RV00522,Cheaper than going to a car wash.,price,positive
+RV00523,Would tell my colleagues about it.,other,neutral
+RV00523,Charged extra without telling me.,price,negative
+RV00523,Could not reschedule my appointment.,booking_experience,negative
+RV00524,Fair rates for the quality.,price,positive
+RV00525,The interior looked brand new.,wash_quality,positive
+RV00525,The crew turned up exactly at my slot.,punctuality,positive
+RV00526,The bill was higher than quoted.,price,negative
+RV00526,I have been using this for a month.,other,neutral
+RV00526,Punctual and quick to start.,punctuality,positive
+RV00527,I have been using this for a month.,other,neutral
+RV00527,Cheaper than going to a car wash.,price,positive
+RV00527,Very professional staff.,staff_behaviour,positive
+RV00527,Loved how simple the app is.,booking_experience,positive
+RV00528,It was a Tuesday morning.,other,neutral
+RV00528,Windows were crystal clear.,wash_quality,positive
+RV00528,Could not reschedule my appointment.,booking_experience,negative
+RV00529,Friendly and helpful team.,staff_behaviour,positive
+RV00529,"They were early, which I appreciated.",punctuality,positive
+RV00530,Paying through the app was smooth.,booking_experience,positive
+RV00530,My paint has fresh scratches now.,wash_quality,negative
+RV00531,The crew was polite and respectful.,staff_behaviour,positive
+RV00532,The crew was polite and respectful.,staff_behaviour,positive
+RV00532,Windows were crystal clear.,wash_quality,positive
+RV00533,I parked in the office basement.,other,neutral
+RV00533,The crew was polite and respectful.,staff_behaviour,positive
+RV00533,Cancelling was a hassle.,booking_experience,negative
+RV00534,The interior looked brand new.,wash_quality,positive
+RV00534,The crew was rude and dismissive.,staff_behaviour,negative
+RV00534,Good value for the money.,price,positive
+RV00535,I have been using this for a month.,other,neutral
+RV00535,The car was spotless and shining.,wash_quality,positive
+RV00535,Rescheduling took seconds.,price,positive
+RV00535,Fair rates for the quality.,price,positive
+RV00536,I parked in the office basement.,other,neutral
+RV00536,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00536,The bill was higher than quoted.,price,negative
+RV00537,They were delayed and never called.,punctuality,negative
+RV00537,Very professional staff.,staff_behaviour,positive
+RV00537,Rescheduling took seconds.,booking_experience,neutral
+RV00537,It was a Tuesday morning.,other,neutral
+RV00538,Paying through the app was smooth.,booking_experience,positive
+RV00538,Not worth the money.,price,negative
+RV00538,Would tell my colleagues about it.,other,neutral
+RV00539,Good value for the money.,price,positive
+RV00539,Windows were crystal clear.,wash_quality,positive
+RV00539,They explained everything patiently.,staff_behaviour,positive
+RV00540,Very reasonable price.,punctuality,neutral
+RV00540,The interior looked brand new.,wash_quality,positive
+RV00540,Showed up well after the slot I booked.,punctuality,negative
+RV00541,Payment failed twice in the app.,booking_experience,negative
+RV00542,Loved how simple the app is.,booking_experience,positive
+RV00543,Very reasonable price.,price,positive
+RV00544,I have been using this for a month.,other,neutral
+RV00544,The app crashed while booking.,booking_experience,negative
+RV00545,Left water marks all over the windshield.,wash_quality,negative
+RV00545,Very professional staff.,staff_behaviour,positive
+RV00545,The crew turned up exactly at my slot.,punctuality,positive
+RV00546,Friendly and helpful team.,staff_behaviour,positive
+RV00546,It was a Tuesday morning.,other,neutral
+RV00546,"They were early, which I appreciated.",punctuality,positive
+RV00547,Would tell my colleagues about it.,other,neutral
+RV00547,The crew arrived an hour late.,punctuality,negative
+RV00547,Very reasonable price.,other,negative
+RV00548,Paying through the app was smooth.,booking_experience,positive
+RV00549,Friendly and helpful team.,staff_behaviour,positive
+RV00549,"They were early, which I appreciated.",punctuality,positive
+RV00550,Friendly and helpful team.,staff_behaviour,positive
+RV00550,The interior was barely cleaned.,wash_quality,negative
+RV00550,Would tell my colleagues about it.,other,neutral
+RV00550,Punctual and quick to start.,punctuality,positive
+RV00551,The crew was polite and respectful.,staff_behaviour,positive
+RV00551,Nobody came until the afternoon.,punctuality,negative
+RV00551,Payment failed twice in the app.,booking_experience,negative
+RV00552,Great finish on the paint.,wash_quality,positive
+RV00552,Rescheduling took seconds.,booking_experience,positive
+RV00553,Friendly and helpful team.,staff_behaviour,positive
+RV00553,"They were early, which I appreciated.",punctuality,positive
+RV00553,The car still had dirt on the bumpers.,wash_quality,negative
+RV00554,Fair rates for the quality.,price,positive
+RV00554,Paying through the app was smooth.,booking_experience,positive
+RV00554,Very professional staff.,staff_behaviour,positive
+RV00555,Rescheduling took seconds.,booking_experience,positive
+RV00555,Charged extra without telling me.,price,negative
+RV00556,The crew was polite and respectful.,staff_behaviour,positive
+RV00557,Would tell my colleagues about it.,other,neutral
+RV00557,Good value for the money.,price,positive
+RV00557,"They were early, which I appreciated.",booking_experience,neutral
+RV00558,Punctual and quick to start.,punctuality,positive
+RV00559,It was a Tuesday morning.,other,neutral
+RV00559,Windows were crystal clear.,wash_quality,positive
+RV00559,Not worth the money.,other,neutral
+RV00560,The car was spotless and shining.,wash_quality,positive
+RV00560,Punctual and quick to start.,booking_experience,positive
+RV00561,Punctual and quick to start.,punctuality,positive
+RV00561,Charged extra without telling me.,price,negative
+RV00562,"They were early, which I appreciated.",punctuality,positive
+RV00562,The crew was polite and respectful.,staff_behaviour,positive
+RV00562,Great finish on the paint.,wash_quality,positive
+RV00563,They ignored my instructions completely.,staff_behaviour,negative
+RV00563,Arrived right on time.,punctuality,positive
+RV00564,Punctual and quick to start.,punctuality,positive
+RV00564,Fair rates for the quality.,price,positive
+RV00565,Could not reschedule my appointment.,booking_experience,negative
+RV00565,Very professional staff.,staff_behaviour,positive
+RV00565,Nobody came until the afternoon.,punctuality,negative
+RV00566,Good value for the money.,price,positive
+RV00566,Friendly and helpful team.,staff_behaviour,positive
+RV00567,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00567,Punctual and quick to start.,punctuality,positive
+RV00567,Loved how simple the app is.,other,positive
+RV00567,Would tell my colleagues about it.,other,neutral
+RV00568,Cheaper than going to a car wash.,price,positive
+RV00568,The crew turned up exactly at my slot.,punctuality,positive
+RV00569,They explained everything patiently.,other,negative
+RV00569,Fair rates for the quality.,price,positive
+RV00570,Booking was quick and easy.,booking_experience,positive
+RV00571,Booking was quick and easy.,booking_experience,positive
+RV00571,They explained everything patiently.,staff_behaviour,positive
+RV00571,"They were early, which I appreciated.",punctuality,positive
+RV00572,The crew turned up exactly at my slot.,punctuality,positive
+RV00573,It was a Tuesday morning.,other,neutral
+RV00573,The interior looked brand new.,wash_quality,positive
+RV00573,The crew turned up exactly at my slot.,punctuality,positive
+RV00574,"They were early, which I appreciated.",punctuality,positive
+RV00574,The interior was barely cleaned.,wash_quality,negative
+RV00575,The crew turned up exactly at my slot.,punctuality,positive
+RV00575,My paint has fresh scratches now.,wash_quality,negative
+RV00576,Cancelling was a hassle.,booking_experience,negative
+RV00576,Very reasonable price.,price,positive
+RV00577,They ignored my instructions completely.,staff_behaviour,negative
+RV00577,I parked in the office basement.,other,neutral
+RV00577,Good value for the money.,price,positive
+RV00577,Rescheduling took seconds.,booking_experience,positive
+RV00578,It was a Tuesday morning.,other,neutral
+RV00578,Booking was quick and easy.,booking_experience,positive
+RV00578,The car was spotless and shining.,wash_quality,positive
+RV00579,Windows were crystal clear.,wash_quality,positive
+RV00579,Paying through the app was smooth.,booking_experience,positive
+RV00580,I have been using this for a month.,other,neutral
+RV00580,Very reasonable price.,price,positive
+RV00580,Nobody came until the afternoon.,punctuality,negative
+RV00580,They ignored my instructions completely.,staff_behaviour,negative
+RV00581,Booking was quick and easy.,other,negative
+RV00581,The interior looked brand new.,wash_quality,positive
+RV00581,Very reasonable price.,price,positive
+RV00582,Very professional staff.,staff_behaviour,positive
+RV00582,I parked in the office basement.,other,neutral
+RV00582,Paying through the app was smooth.,booking_experience,positive
+RV00583,Way too expensive for a basic wash.,booking_experience,positive
+RV00583,The interior looked brand new.,wash_quality,positive
+RV00584,Friendly and helpful team.,staff_behaviour,positive
+RV00584,They were delayed and never called.,punctuality,negative
+RV00584,The interior looked brand new.,wash_quality,positive
+RV00585,Very reasonable price.,price,positive
+RV00586,Great finish on the paint.,wash_quality,positive
+RV00586,Cheaper than going to a car wash.,price,positive
+RV00587,It was a Tuesday morning.,other,neutral
+RV00587,The crew was rude and dismissive.,staff_behaviour,negative
+RV00588,Waited forever for the van to turn up.,punctuality,negative
+RV00588,Payment failed twice in the app.,booking_experience,negative
+RV00589,Booking was quick and easy.,booking_experience,positive
+RV00589,The crew turned up exactly at my slot.,punctuality,positive
+RV00590,Charged extra without telling me.,price,negative
+RV00590,The car was spotless and shining.,wash_quality,positive
+RV00591,Would tell my colleagues about it.,other,neutral
+RV00591,The interior looked brand new.,wash_quality,positive
+RV00591,Punctual and quick to start.,punctuality,positive
+RV00592,The interior looked brand new.,wash_quality,positive
+RV00593,Very reasonable price.,price,positive
+RV00593,Great finish on the paint.,wash_quality,positive
+RV00593,Could not reschedule my appointment.,booking_experience,negative
+RV00594,Nobody came until the afternoon.,punctuality,negative
+RV00594,The crew was rude and dismissive.,staff_behaviour,negative
+RV00595,The car still had dirt on the bumpers.,wash_quality,negative
+RV00595,Charged extra without telling me.,price,negative
+RV00595,The crew was polite and respectful.,staff_behaviour,positive
+RV00596,The interior was barely cleaned.,wash_quality,negative
+RV00596,Showed up well after the slot I booked.,punctuality,negative
+RV00597,Rescheduling took seconds.,booking_experience,positive
+RV00597,Would tell my colleagues about it.,other,neutral
+RV00597,The interior was barely cleaned.,other,positive
+RV00598,Charged extra without telling me.,price,negative
+RV00598,Windows were crystal clear.,wash_quality,positive
+RV00599,The car was spotless and shining.,wash_quality,positive
+RV00599,Good value for the money.,price,positive
+RV00599,Booking was quick and easy.,booking_experience,positive
+RV00600,Booking was quick and easy.,booking_experience,positive
+RV00600,Friendly and helpful team.,staff_behaviour,positive
+RV00600,The interior looked brand new.,wash_quality,positive
+RV00601,Very professional staff.,staff_behaviour,positive
+RV00602,It was a Tuesday morning.,other,neutral
+RV00602,Nobody came until the afternoon.,booking_experience,negative
+RV00602,Great finish on the paint.,wash_quality,positive
+RV00603,The bill was higher than quoted.,price,negative
+RV00603,I parked in the office basement.,other,neutral
+RV00603,The car was spotless and shining.,wash_quality,positive
+RV00603,The crew turned up exactly at my slot.,punctuality,positive
+RV00604,Very professional staff.,staff_behaviour,positive
+RV00604,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00604,The crew turned up exactly at my slot.,punctuality,positive
+RV00605,Loved how simple the app is.,booking_experience,positive
+RV00605,Friendly and helpful team.,staff_behaviour,positive
+RV00605,Windows were crystal clear.,wash_quality,positive
+RV00606,Would tell my colleagues about it.,other,neutral
+RV00606,Great finish on the paint.,wash_quality,positive
+RV00607,The crew was rude and dismissive.,staff_behaviour,negative
+RV00608,Way too expensive for a basic wash.,punctuality,positive
+RV00608,The car was spotless and shining.,wash_quality,positive
+RV00608,Paying through the app was smooth.,booking_experience,positive
+RV00609,Paying through the app was smooth.,booking_experience,positive
+RV00609,Waited forever for the van to turn up.,punctuality,negative
+RV00609,Charged extra without telling me.,price,negative
+RV00610,Waited forever for the van to turn up.,punctuality,negative
+RV00610,The interior looked brand new.,wash_quality,positive
+RV00610,The crew was rude and dismissive.,staff_behaviour,negative
+RV00611,I have been using this for a month.,other,neutral
+RV00611,Fair rates for the quality.,price,positive
+RV00612,The car was spotless and shining.,wash_quality,positive
+RV00612,The crew was rude and dismissive.,staff_behaviour,negative
+RV00613,Punctual and quick to start.,punctuality,positive
+RV00613,The car was spotless and shining.,wash_quality,positive
+RV00614,The crew arrived an hour late.,punctuality,negative
+RV00614,Rescheduling took seconds.,wash_quality,neutral
+RV00614,Not worth the money.,price,negative
+RV00614,I parked in the office basement.,other,neutral
+RV00615,Loved how simple the app is.,booking_experience,positive
+RV00615,I have been using this for a month.,other,neutral
+RV00616,They explained everything patiently.,staff_behaviour,positive
+RV00616,Windows were crystal clear.,wash_quality,positive
+RV00616,I have been using this for a month.,other,neutral
+RV00617,They were delayed and never called.,punctuality,negative
+RV00617,Would tell my colleagues about it.,other,neutral
+RV00617,Booking was quick and easy.,booking_experience,positive
+RV00618,Not worth the money.,price,negative
+RV00618,Rescheduling took seconds.,booking_experience,positive
+RV00619,The interior looked brand new.,wash_quality,positive
+RV00620,Great finish on the paint.,wash_quality,positive
+RV00621,Arrived right on time.,wash_quality,negative
+RV00622,The crew turned up exactly at my slot.,punctuality,positive
+RV00622,The car still had dirt on the bumpers.,wash_quality,negative
+RV00623,Friendly and helpful team.,staff_behaviour,positive
+RV00623,Would tell my colleagues about it.,other,neutral
+RV00623,Paying through the app was smooth.,booking_experience,positive
+RV00624,The crew turned up exactly at my slot.,punctuality,positive
+RV00624,Cheaper than going to a car wash.,price,positive
+RV00624,Windows were crystal clear.,wash_quality,positive
+RV00625,Left water marks all over the windshield.,wash_quality,negative
+RV00625,Not worth the money.,price,negative
+RV00626,Booking was quick and easy.,booking_experience,positive
+RV00626,Very reasonable price.,price,positive
+RV00627,Fair rates for the quality.,price,positive
+RV00627,They explained everything patiently.,staff_behaviour,positive
+RV00628,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00629,Booking was quick and easy.,booking_experience,positive
+RV00629,"They were early, which I appreciated.",punctuality,positive
+RV00630,Very reasonable price.,price,positive
+RV00630,Very professional staff.,staff_behaviour,positive
+RV00630,Would tell my colleagues about it.,other,neutral
+RV00630,Paying through the app was smooth.,punctuality,positive
+RV00631,One guy kept arguing with me.,staff_behaviour,negative
+RV00631,I parked in the office basement.,wash_quality,negative
+RV00631,Not worth the money.,price,negative
+RV00631,Paying through the app was smooth.,booking_experience,positive
+RV00632,They explained everything patiently.,staff_behaviour,positive
+RV00632,Not worth the money.,price,negative
+RV00632,The crew arrived an hour late.,punctuality,negative
+RV00632,I parked in the office basement.,wash_quality,positive
+RV00633,Cheaper than going to a car wash.,price,positive
+RV00634,Rescheduling took seconds.,booking_experience,positive
+RV00634,Good value for the money.,price,positive
+RV00635,"They were early, which I appreciated.",punctuality,positive
+RV00636,Punctual and quick to start.,other,neutral
+RV00636,Loved how simple the app is.,staff_behaviour,negative
+RV00637,Fair rates for the quality.,price,positive
+RV00637,The car was spotless and shining.,wash_quality,positive
+RV00638,Charged extra without telling me.,price,negative
+RV00639,The car was spotless and shining.,wash_quality,positive
+RV00640,Great finish on the paint.,wash_quality,positive
+RV00640,Arrived right on time.,punctuality,positive
+RV00640,I have been using this for a month.,other,neutral
+RV00640,Charged extra without telling me.,price,negative
+RV00641,Payment failed twice in the app.,booking_experience,negative
+RV00641,Very reasonable price.,price,positive
+RV00642,Way too expensive for a basic wash.,price,negative
+RV00642,The app crashed while booking.,booking_experience,negative
+RV00642,Nobody came until the afternoon.,punctuality,negative
+RV00643,The interior looked brand new.,wash_quality,positive
+RV00643,"They were early, which I appreciated.",punctuality,positive
+RV00644,They were delayed and never called.,punctuality,negative
+RV00644,Cheaper than going to a car wash.,price,positive
+RV00645,It was a Tuesday morning.,other,neutral
+RV00645,Booking was quick and easy.,booking_experience,positive
+RV00646,Booking was quick and easy.,booking_experience,positive
+RV00646,Friendly and helpful team.,staff_behaviour,positive
+RV00646,The crew turned up exactly at my slot.,punctuality,positive
+RV00647,Paying through the app was smooth.,booking_experience,positive
+RV00648,Would tell my colleagues about it.,other,neutral
+RV00648,The crew turned up exactly at my slot.,punctuality,positive
+RV00648,Very professional staff.,staff_behaviour,positive
+RV00648,Cheaper than going to a car wash.,price,positive
+RV00649,The car was spotless and shining.,wash_quality,positive
+RV00649,The crew turned up exactly at my slot.,punctuality,positive
+RV00650,I have been using this for a month.,other,neutral
+RV00650,"They were early, which I appreciated.",punctuality,positive
+RV00651,Nobody came until the afternoon.,punctuality,negative
+RV00651,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00651,Fair rates for the quality.,price,positive
+RV00652,They ignored my instructions completely.,staff_behaviour,negative
+RV00652,Way too expensive for a basic wash.,price,negative
+RV00653,Cancelling was a hassle.,booking_experience,negative
+RV00654,Great finish on the paint.,wash_quality,positive
+RV00654,The app crashed while booking.,booking_experience,negative
+RV00655,Booking was quick and easy.,booking_experience,positive
+RV00656,Great finish on the paint.,wash_quality,positive
+RV00656,It was a Tuesday morning.,other,neutral
+RV00657,Loved how simple the app is.,booking_experience,positive
+RV00657,Punctual and quick to start.,booking_experience,neutral
+RV00658,The crew was polite and respectful.,staff_behaviour,positive
+RV00658,The interior looked brand new.,wash_quality,positive
+RV00658,I parked in the office basement.,other,neutral
+RV00658,Good value for the money.,price,positive
+RV00659,Paying through the app was smooth.,booking_experience,positive
+RV00660,The crew was polite and respectful.,staff_behaviour,positive
+RV00660,The crew turned up exactly at my slot.,punctuality,positive
+RV00660,Cheaper than going to a car wash.,price,positive
+RV00661,Friendly and helpful team.,staff_behaviour,positive
+RV00661,Way too expensive for a basic wash.,price,negative
+RV00662,Booking was quick and easy.,booking_experience,positive
+RV00662,One guy kept arguing with me.,staff_behaviour,negative
+RV00663,Cheaper than going to a car wash.,price,positive
+RV00663,Payment failed twice in the app.,booking_experience,negative
+RV00664,Charged extra without telling me.,price,negative
+RV00664,Friendly and helpful team.,staff_behaviour,positive
+RV00664,Windows were crystal clear.,wash_quality,positive
+RV00665,Loved how simple the app is.,booking_experience,positive
+RV00665,Cheaper than going to a car wash.,price,positive
+RV00666,Arrived right on time.,punctuality,positive
+RV00666,Very professional staff.,other,neutral
+RV00667,Very reasonable price.,price,positive
+RV00667,The crew turned up exactly at my slot.,punctuality,positive
+RV00667,Friendly and helpful team.,staff_behaviour,positive
+RV00668,Would tell my colleagues about it.,other,neutral
+RV00668,The crew turned up exactly at my slot.,punctuality,positive
+RV00668,Loved how simple the app is.,booking_experience,positive
+RV00669,It was a Tuesday morning.,other,neutral
+RV00669,Showed up well after the slot I booked.,punctuality,negative
+RV00669,Paying through the app was smooth.,booking_experience,positive
+RV00670,Fair rates for the quality.,other,negative
+RV00670,I have been using this for a month.,other,neutral
+RV00671,The crew turned up exactly at my slot.,punctuality,positive
+RV00671,I parked in the office basement.,other,neutral
+RV00672,They explained everything patiently.,staff_behaviour,positive
+RV00672,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00673,Good value for the money.,price,positive
+RV00673,It was a Tuesday morning.,other,neutral
+RV00673,Waited forever for the van to turn up.,punctuality,negative
+RV00674,Very professional staff.,staff_behaviour,positive
+RV00674,The crew turned up exactly at my slot.,punctuality,positive
+RV00674,Windows were crystal clear.,wash_quality,positive
+RV00675,The interior was barely cleaned.,wash_quality,negative
+RV00676,Cheaper than going to a car wash.,price,positive
+RV00677,The interior looked brand new.,wash_quality,positive
+RV00677,Friendly and helpful team.,staff_behaviour,positive
+RV00678,Loved how simple the app is.,booking_experience,positive
+RV00679,"They were early, which I appreciated.",punctuality,positive
+RV00679,I parked in the office basement.,other,neutral
+RV00679,Charged extra without telling me.,price,negative
+RV00680,The car was spotless and shining.,wash_quality,positive
+RV00680,The crew was polite and respectful.,staff_behaviour,positive
+RV00681,The car still had dirt on the bumpers.,wash_quality,negative
+RV00682,Very reasonable price.,price,positive
+RV00682,They explained everything patiently.,staff_behaviour,positive
+RV00683,Would tell my colleagues about it.,other,neutral
+RV00683,Rescheduling took seconds.,booking_experience,positive
+RV00683,They explained everything patiently.,staff_behaviour,positive
+RV00684,It was a Tuesday morning.,other,neutral
+RV00684,The crew turned up exactly at my slot.,punctuality,positive
+RV00685,Could not reschedule my appointment.,booking_experience,negative
+RV00685,The interior looked brand new.,wash_quality,positive
+RV00686,The bill was higher than quoted.,price,negative
+RV00687,My paint has fresh scratches now.,wash_quality,negative
+RV00687,One guy kept arguing with me.,staff_behaviour,negative
+RV00688,Windows were crystal clear.,wash_quality,positive
+RV00689,The car was spotless and shining.,wash_quality,positive
+RV00690,The car still had dirt on the bumpers.,wash_quality,negative
+RV00690,Rescheduling took seconds.,booking_experience,positive
+RV00690,The crew was polite and respectful.,staff_behaviour,positive
+RV00691,Great finish on the paint.,staff_behaviour,positive
+RV00692,They explained everything patiently.,staff_behaviour,positive
+RV00692,"They were early, which I appreciated.",punctuality,positive
+RV00693,The crew was polite and respectful.,staff_behaviour,positive
+RV00693,The car was spotless and shining.,wash_quality,positive
+RV00694,Good value for the money.,price,positive
+RV00694,Windows were crystal clear.,wash_quality,positive
+RV00694,I parked in the office basement.,other,neutral
+RV00695,Very reasonable price.,price,positive
+RV00695,Great finish on the paint.,wash_quality,positive
+RV00696,Windows were crystal clear.,punctuality,positive
+RV00696,Showed up well after the slot I booked.,punctuality,negative
+RV00696,I parked in the office basement.,other,neutral
+RV00697,The crew was rude and dismissive.,punctuality,positive
+RV00698,Nobody came until the afternoon.,punctuality,negative
+RV00698,Great finish on the paint.,wash_quality,positive
+RV00699,Arrived right on time.,punctuality,positive
+RV00700,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00700,Punctual and quick to start.,punctuality,positive
+RV00700,Good value for the money.,price,positive
+RV00701,The crew was rude and dismissive.,staff_behaviour,negative
+RV00701,Punctual and quick to start.,punctuality,positive
+RV00702,The interior looked brand new.,wash_quality,positive
+RV00702,Cheaper than going to a car wash.,price,positive
+RV00703,The crew turned up exactly at my slot.,punctuality,positive
+RV00704,Fair rates for the quality.,price,positive
+RV00704,Booking was quick and easy.,booking_experience,positive
+RV00705,Very professional staff.,staff_behaviour,positive
+RV00705,I parked in the office basement.,other,neutral
+RV00705,Cheaper than going to a car wash.,price,positive
+RV00706,The crew turned up exactly at my slot.,punctuality,positive
+RV00706,Fair rates for the quality.,price,positive
+RV00707,The interior looked brand new.,wash_quality,positive
+RV00707,The crew turned up exactly at my slot.,punctuality,positive
+RV00707,Charged extra without telling me.,wash_quality,negative
+RV00708,Arrived right on time.,punctuality,positive
+RV00708,Fair rates for the quality.,price,positive
+RV00709,I parked in the office basement.,other,neutral
+RV00709,Nobody came until the afternoon.,punctuality,negative
+RV00709,Windows were crystal clear.,wash_quality,positive
+RV00710,Way too expensive for a basic wash.,price,negative
+RV00710,Booking was quick and easy.,booking_experience,positive
+RV00710,They explained everything patiently.,staff_behaviour,positive
+RV00711,Paying through the app was smooth.,booking_experience,positive
+RV00711,They explained everything patiently.,staff_behaviour,positive
+RV00712,Charged extra without telling me.,price,negative
+RV00712,Arrived right on time.,punctuality,positive
+RV00713,I have been using this for a month.,other,neutral
+RV00713,Friendly and helpful team.,staff_behaviour,positive
+RV00714,Nobody came until the afternoon.,punctuality,negative
+RV00714,Left water marks all over the windshield.,wash_quality,negative
+RV00715,Would tell my colleagues about it.,other,neutral
+RV00715,Paying through the app was smooth.,staff_behaviour,neutral
+RV00716,The car was spotless and shining.,wash_quality,positive
+RV00716,Very reasonable price.,price,positive
+RV00716,Rescheduling took seconds.,booking_experience,positive
+RV00717,The crew turned up exactly at my slot.,punctuality,positive
+RV00717,Very reasonable price.,price,positive
+RV00718,Windows were crystal clear.,wash_quality,positive
+RV00718,It was a Tuesday morning.,other,neutral
+RV00718,Cheaper than going to a car wash.,price,positive
+RV00719,Waited forever for the van to turn up.,punctuality,negative
+RV00720,Would tell my colleagues about it.,other,neutral
+RV00720,Not worth the money.,price,negative
+RV00721,Windows were crystal clear.,wash_quality,positive
+RV00721,Very professional staff.,staff_behaviour,positive
+RV00721,Good value for the money.,price,positive
+RV00721,Would tell my colleagues about it.,other,neutral
+RV00722,Cheaper than going to a car wash.,price,positive
+RV00723,The car was spotless and shining.,wash_quality,positive
+RV00723,I have been using this for a month.,other,neutral
+RV00724,Windows were crystal clear.,wash_quality,positive
+RV00725,"They were early, which I appreciated.",punctuality,positive
+RV00725,Loved how simple the app is.,booking_experience,positive
+RV00725,Very reasonable price.,price,positive
+RV00726,Fair rates for the quality.,price,positive
+RV00726,Showed up well after the slot I booked.,punctuality,negative
+RV00726,The car was spotless and shining.,wash_quality,positive
+RV00726,Would tell my colleagues about it.,other,neutral
+RV00727,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00727,It was a Tuesday morning.,other,neutral
+RV00728,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00728,Would tell my colleagues about it.,other,neutral
+RV00728,Waited forever for the van to turn up.,punctuality,negative
+RV00729,The crew turned up exactly at my slot.,punctuality,positive
+RV00729,Cancelling was a hassle.,booking_experience,negative
+RV00729,The interior looked brand new.,wash_quality,positive
+RV00730,Good value for the money.,other,negative
+RV00731,The crew was polite and respectful.,staff_behaviour,positive
+RV00731,Rescheduling took seconds.,booking_experience,positive
+RV00731,Left water marks all over the windshield.,wash_quality,negative
+RV00732,Fair rates for the quality.,price,positive
+RV00733,Punctual and quick to start.,punctuality,positive
+RV00733,It was a Tuesday morning.,other,neutral
+RV00733,My paint has fresh scratches now.,wash_quality,negative
+RV00734,Booking was quick and easy.,booking_experience,positive
+RV00734,The crew arrived an hour late.,punctuality,negative
+RV00735,It was a Tuesday morning.,other,neutral
+RV00735,The crew was polite and respectful.,staff_behaviour,positive
+RV00735,They were delayed and never called.,punctuality,negative
+RV00735,Paying through the app was smooth.,booking_experience,positive
+RV00736,They explained everything patiently.,staff_behaviour,positive
+RV00736,Would tell my colleagues about it.,other,neutral
+RV00737,Waited forever for the van to turn up.,punctuality,negative
+RV00737,It was a Tuesday morning.,other,neutral
+RV00737,Fair rates for the quality.,price,positive
+RV00737,Rescheduling took seconds.,booking_experience,positive
+RV00738,Windows were crystal clear.,wash_quality,positive
+RV00738,Charged extra without telling me.,price,negative
+RV00738,Paying through the app was smooth.,punctuality,positive
+RV00739,Arrived right on time.,punctuality,positive
+RV00739,Loved how simple the app is.,booking_experience,positive
+RV00740,Windows were crystal clear.,wash_quality,positive
+RV00740,Friendly and helpful team.,staff_behaviour,positive
+RV00741,Arrived right on time.,punctuality,positive
+RV00741,Would tell my colleagues about it.,other,neutral
+RV00742,The crew was rude and dismissive.,wash_quality,positive
+RV00742,Very reasonable price.,price,positive
+RV00742,Windows were crystal clear.,wash_quality,positive
+RV00742,It was a Tuesday morning.,staff_behaviour,neutral
+RV00743,The crew turned up exactly at my slot.,punctuality,positive
+RV00743,Very reasonable price.,price,positive
+RV00743,Rescheduling took seconds.,booking_experience,positive
+RV00744,Left water marks all over the windshield.,wash_quality,negative
+RV00744,I have been using this for a month.,other,neutral
+RV00744,Paying through the app was smooth.,booking_experience,positive
+RV00745,The interior looked brand new.,wash_quality,positive
+RV00745,Booking was quick and easy.,booking_experience,positive
+RV00746,Booking was quick and easy.,booking_experience,positive
+RV00746,Cheaper than going to a car wash.,price,positive
+RV00746,Would tell my colleagues about it.,other,neutral
+RV00746,Windows were crystal clear.,wash_quality,positive
+RV00747,The crew turned up exactly at my slot.,punctuality,positive
+RV00747,Not worth the money.,price,negative
+RV00748,The crew was rude and dismissive.,staff_behaviour,negative
+RV00748,The crew turned up exactly at my slot.,punctuality,positive
+RV00749,Arrived right on time.,punctuality,positive
+RV00749,Very professional staff.,staff_behaviour,positive
+RV00750,Punctual and quick to start.,punctuality,positive
+RV00750,Very reasonable price.,price,positive
+RV00751,The bill was higher than quoted.,price,negative
+RV00751,I have been using this for a month.,other,neutral
+RV00752,Cheaper than going to a car wash.,price,positive
+RV00753,Arrived right on time.,punctuality,positive
+RV00753,The car was spotless and shining.,wash_quality,positive
+RV00753,I have been using this for a month.,other,neutral
+RV00753,Paying through the app was smooth.,booking_experience,positive
+RV00754,The interior looked brand new.,wash_quality,positive
+RV00755,Would tell my colleagues about it.,other,neutral
+RV00755,The crew was polite and respectful.,staff_behaviour,positive
+RV00756,Left water marks all over the windshield.,wash_quality,negative
+RV00756,The crew was polite and respectful.,staff_behaviour,positive
+RV00756,"They were early, which I appreciated.",punctuality,positive
+RV00757,Loved how simple the app is.,booking_experience,positive
+RV00757,The crew turned up exactly at my slot.,wash_quality,neutral
+RV00757,The car was spotless and shining.,wash_quality,positive
+RV00758,Punctual and quick to start.,punctuality,positive
+RV00758,Cheaper than going to a car wash.,price,positive
+RV00759,The interior looked brand new.,wash_quality,positive
+RV00759,Booking was quick and easy.,booking_experience,positive
+RV00759,I have been using this for a month.,other,positive
+RV00759,Not worth the money.,price,negative
+RV00760,Cancelling was a hassle.,price,positive
+RV00760,The crew turned up exactly at my slot.,punctuality,positive
+RV00761,Windows were crystal clear.,wash_quality,positive
+RV00761,They explained everything patiently.,staff_behaviour,positive
+RV00762,The car still had dirt on the bumpers.,wash_quality,negative
+RV00763,Not worth the money.,price,negative
+RV00763,Loved how simple the app is.,booking_experience,positive
+RV00763,Punctual and quick to start.,punctuality,positive
+RV00764,The crew was polite and respectful.,staff_behaviour,positive
+RV00764,The interior was barely cleaned.,wash_quality,negative
+RV00764,The crew turned up exactly at my slot.,punctuality,positive
+RV00765,Paying through the app was smooth.,booking_experience,positive
+RV00766,Punctual and quick to start.,punctuality,positive
+RV00766,Way too expensive for a basic wash.,price,negative
+RV00767,Rescheduling took seconds.,booking_experience,positive
+RV00767,Cheaper than going to a car wash.,price,positive
+RV00768,The bill was higher than quoted.,price,negative
+RV00768,The app crashed while booking.,booking_experience,negative
+RV00769,The interior looked brand new.,wash_quality,positive
+RV00769,They ignored my instructions completely.,staff_behaviour,negative
+RV00769,Paying through the app was smooth.,booking_experience,positive
+RV00770,Booking was quick and easy.,booking_experience,positive
+RV00770,The car was spotless and shining.,wash_quality,positive
+RV00770,Cheaper than going to a car wash.,price,positive
+RV00771,Would tell my colleagues about it.,staff_behaviour,positive
+RV00771,They explained everything patiently.,staff_behaviour,positive
+RV00771,Loved how simple the app is.,booking_experience,positive
+RV00772,Very reasonable price.,price,positive
+RV00772,I parked in the office basement.,other,neutral
+RV00773,Showed up well after the slot I booked.,punctuality,negative
+RV00773,I have been using this for a month.,other,neutral
+RV00773,The crew was polite and respectful.,staff_behaviour,positive
+RV00774,Great finish on the paint.,wash_quality,positive
+RV00774,They explained everything patiently.,staff_behaviour,positive
+RV00774,The crew turned up exactly at my slot.,punctuality,positive
+RV00775,Paying through the app was smooth.,booking_experience,positive
+RV00775,My paint has fresh scratches now.,wash_quality,negative
+RV00775,Cheaper than going to a car wash.,price,positive
+RV00776,The bill was higher than quoted.,price,negative
+RV00776,Showed up well after the slot I booked.,punctuality,negative
+RV00776,They explained everything patiently.,staff_behaviour,positive
+RV00777,Very reasonable price.,price,positive
+RV00777,My paint has fresh scratches now.,wash_quality,negative
+RV00777,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00778,The crew was polite and respectful.,staff_behaviour,positive
+RV00778,The crew turned up exactly at my slot.,punctuality,positive
+RV00778,I parked in the office basement.,other,neutral
+RV00778,Fair rates for the quality.,price,positive
+RV00779,It was a Tuesday morning.,other,neutral
+RV00779,Loved how simple the app is.,booking_experience,positive
+RV00779,They were delayed and never called.,punctuality,negative
+RV00780,The crew was polite and respectful.,staff_behaviour,positive
+RV00780,Windows were crystal clear.,wash_quality,positive
+RV00781,Way too expensive for a basic wash.,price,negative
+RV00781,Paying through the app was smooth.,booking_experience,positive
+RV00782,Fair rates for the quality.,price,positive
+RV00782,Would tell my colleagues about it.,other,positive
+RV00783,"They were early, which I appreciated.",punctuality,positive
+RV00783,Friendly and helpful team.,staff_behaviour,positive
+RV00783,Loved how simple the app is.,booking_experience,positive
+RV00784,Not worth the money.,price,negative
+RV00784,The car was spotless and shining.,wash_quality,positive
+RV00785,Very professional staff.,staff_behaviour,positive
+RV00785,The interior looked brand new.,wash_quality,positive
+RV00785,I have been using this for a month.,other,neutral
+RV00786,Paying through the app was smooth.,other,negative
+RV00786,The crew was polite and respectful.,staff_behaviour,positive
+RV00786,Great finish on the paint.,wash_quality,positive
+RV00787,Windows were crystal clear.,wash_quality,positive
+RV00788,One guy kept arguing with me.,staff_behaviour,negative
+RV00788,The interior looked brand new.,wash_quality,positive
+RV00789,The interior looked brand new.,wash_quality,positive
+RV00790,They ignored my instructions completely.,staff_behaviour,negative
+RV00790,I parked in the office basement.,other,neutral
+RV00791,Fair rates for the quality.,price,positive
+RV00792,Cancelling was a hassle.,booking_experience,negative
+RV00792,Would tell my colleagues about it.,other,neutral
+RV00792,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00793,Booking was quick and easy.,booking_experience,positive
+RV00793,The crew was polite and respectful.,price,neutral
+RV00794,Arrived right on time.,punctuality,positive
+RV00794,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00794,I have been using this for a month.,other,neutral
+RV00795,Friendly and helpful team.,staff_behaviour,positive
+RV00795,Fair rates for the quality.,wash_quality,positive
+RV00795,The car still had dirt on the bumpers.,wash_quality,negative
+RV00796,I have been using this for a month.,other,neutral
+RV00796,"They were early, which I appreciated.",punctuality,positive
+RV00796,Fair rates for the quality.,price,positive
+RV00796,Loved how simple the app is.,booking_experience,positive
+RV00797,The crew turned up exactly at my slot.,punctuality,positive
+RV00798,Great finish on the paint.,wash_quality,positive
+RV00798,Not worth the money.,price,negative
+RV00799,Rescheduling took seconds.,booking_experience,positive
+RV00799,Great finish on the paint.,wash_quality,positive
+RV00800,The car was spotless and shining.,wash_quality,positive
+RV00800,They ignored my instructions completely.,staff_behaviour,negative
+RV00801,One guy kept arguing with me.,staff_behaviour,negative
+RV00801,Left water marks all over the windshield.,punctuality,neutral
+RV00802,Booking was quick and easy.,booking_experience,positive
+RV00802,The bill was higher than quoted.,price,negative
+RV00803,Punctual and quick to start.,punctuality,positive
+RV00803,Rescheduling took seconds.,booking_experience,positive
+RV00803,They explained everything patiently.,staff_behaviour,positive
+RV00804,"They were early, which I appreciated.",punctuality,positive
+RV00804,Cheaper than going to a car wash.,price,positive
+RV00804,Rescheduling took seconds.,booking_experience,positive
+RV00804,It was a Tuesday morning.,other,neutral
+RV00805,Cheaper than going to a car wash.,price,positive
+RV00805,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00806,Would tell my colleagues about it.,other,neutral
+RV00806,The crew was polite and respectful.,staff_behaviour,positive
+RV00806,Windows were crystal clear.,wash_quality,positive
+RV00807,It was a Tuesday morning.,other,neutral
+RV00807,Not worth the money.,price,negative
+RV00808,The car still had dirt on the bumpers.,wash_quality,negative
+RV00808,It was a Tuesday morning.,other,neutral
+RV00809,They explained everything patiently.,staff_behaviour,positive
+RV00809,Arrived right on time.,punctuality,positive
+RV00810,Could not reschedule my appointment.,booking_experience,negative
+RV00811,Punctual and quick to start.,punctuality,positive
+RV00811,They explained everything patiently.,wash_quality,positive
+RV00811,Windows were crystal clear.,booking_experience,negative
+RV00812,The crew was polite and respectful.,staff_behaviour,positive
+RV00812,Paying through the app was smooth.,booking_experience,positive
+RV00813,Booking was quick and easy.,booking_experience,positive
+RV00813,Very reasonable price.,price,positive
+RV00814,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00814,The interior was barely cleaned.,wash_quality,negative
+RV00815,The crew was polite and respectful.,staff_behaviour,positive
+RV00816,Charged extra without telling me.,price,negative
+RV00816,Loved how simple the app is.,booking_experience,positive
+RV00817,The crew turned up exactly at my slot.,punctuality,positive
+RV00817,They ignored my instructions completely.,staff_behaviour,negative
+RV00818,The interior was barely cleaned.,wash_quality,negative
+RV00819,Charged extra without telling me.,price,negative
+RV00820,The crew was polite and respectful.,staff_behaviour,positive
+RV00820,Good value for the money.,price,positive
+RV00820,Waited forever for the van to turn up.,punctuality,negative
+RV00821,Good value for the money.,price,positive
+RV00821,The car still had dirt on the bumpers.,wash_quality,negative
+RV00821,Booking was quick and easy.,booking_experience,positive
+RV00822,Waited forever for the van to turn up.,punctuality,negative
+RV00822,My paint has fresh scratches now.,wash_quality,negative
+RV00823,The interior looked brand new.,wash_quality,positive
+RV00824,The crew was polite and respectful.,staff_behaviour,positive
+RV00824,It was a Tuesday morning.,other,neutral
+RV00825,I parked in the office basement.,other,neutral
+RV00825,Great finish on the paint.,booking_experience,positive
+RV00826,Arrived right on time.,punctuality,positive
+RV00826,Cheaper than going to a car wash.,price,positive
+RV00827,"They were early, which I appreciated.",punctuality,positive
+RV00828,The crew was polite and respectful.,staff_behaviour,positive
+RV00828,The crew turned up exactly at my slot.,punctuality,positive
+RV00829,The crew was polite and respectful.,staff_behaviour,positive
+RV00830,Nobody came until the afternoon.,punctuality,negative
+RV00830,The car was spotless and shining.,wash_quality,positive
+RV00831,Great finish on the paint.,wash_quality,positive
+RV00831,The crew was polite and respectful.,other,neutral
+RV00831,The crew arrived an hour late.,punctuality,negative
+RV00832,Friendly and helpful team.,staff_behaviour,positive
+RV00832,Good value for the money.,price,positive
+RV00833,Waited forever for the van to turn up.,punctuality,negative
+RV00833,Windows were crystal clear.,wash_quality,positive
+RV00834,The crew turned up exactly at my slot.,staff_behaviour,positive
+RV00834,Very professional staff.,staff_behaviour,positive
+RV00835,"They were early, which I appreciated.",punctuality,positive
+RV00835,The interior looked brand new.,wash_quality,positive
+RV00835,Very professional staff.,staff_behaviour,positive
+RV00836,Charged extra without telling me.,price,negative
+RV00836,Booking was quick and easy.,price,negative
+RV00837,Friendly and helpful team.,staff_behaviour,positive
+RV00837,The crew turned up exactly at my slot.,punctuality,positive
+RV00838,Booking was quick and easy.,staff_behaviour,neutral
+RV00838,Friendly and helpful team.,other,positive
+RV00839,"They were early, which I appreciated.",punctuality,positive
+RV00839,Friendly and helpful team.,staff_behaviour,positive
+RV00840,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00840,The crew turned up exactly at my slot.,punctuality,positive
+RV00840,Cancelling was a hassle.,booking_experience,negative
+RV00841,Nobody came until the afternoon.,punctuality,negative
+RV00841,They ignored my instructions completely.,staff_behaviour,negative
+RV00841,Fair rates for the quality.,price,positive
+RV00842,Way too expensive for a basic wash.,price,negative
+RV00843,Left water marks all over the windshield.,wash_quality,negative
+RV00843,The crew was polite and respectful.,staff_behaviour,positive
+RV00843,It was a Tuesday morning.,other,neutral
+RV00844,It was a Tuesday morning.,other,neutral
+RV00844,Good value for the money.,price,positive
+RV00844,Waited forever for the van to turn up.,punctuality,negative
+RV00845,The crew was polite and respectful.,staff_behaviour,positive
+RV00845,Fair rates for the quality.,booking_experience,positive
+RV00846,The car still had dirt on the bumpers.,wash_quality,negative
+RV00846,It was a Tuesday morning.,other,neutral
+RV00847,Punctual and quick to start.,punctuality,positive
+RV00847,The interior looked brand new.,wash_quality,positive
+RV00847,Not worth the money.,price,negative
+RV00848,It was a Tuesday morning.,other,neutral
+RV00848,Friendly and helpful team.,staff_behaviour,positive
+RV00848,Loved how simple the app is.,booking_experience,positive
+RV00849,Nobody came until the afternoon.,punctuality,negative
+RV00849,The interior looked brand new.,wash_quality,positive
+RV00850,They explained everything patiently.,staff_behaviour,positive
+RV00850,They were delayed and never called.,punctuality,negative
+RV00851,The interior was barely cleaned.,wash_quality,negative
+RV00851,Showed up well after the slot I booked.,punctuality,negative
+RV00852,Good value for the money.,price,positive
+RV00852,I parked in the office basement.,booking_experience,neutral
+RV00852,Very professional staff.,staff_behaviour,positive
+RV00852,The app crashed while booking.,booking_experience,negative
+RV00853,Cancelling was a hassle.,booking_experience,negative
+RV00853,"They were early, which I appreciated.",punctuality,positive
+RV00854,Loved how simple the app is.,booking_experience,positive
+RV00855,The bill was higher than quoted.,price,negative
+RV00855,Friendly and helpful team.,staff_behaviour,positive
+RV00855,Payment failed twice in the app.,booking_experience,negative
+RV00856,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00856,Way too expensive for a basic wash.,price,negative
+RV00857,Rescheduling took seconds.,booking_experience,positive
+RV00858,The crew was polite and respectful.,staff_behaviour,positive
+RV00858,"They were early, which I appreciated.",punctuality,positive
+RV00859,The crew turned up exactly at my slot.,punctuality,positive
+RV00860,Arrived right on time.,punctuality,positive
+RV00860,Way too expensive for a basic wash.,other,neutral
+RV00861,Paying through the app was smooth.,booking_experience,positive
+RV00861,The crew was polite and respectful.,staff_behaviour,positive
+RV00861,I parked in the office basement.,other,neutral
+RV00862,Cheaper than going to a car wash.,price,positive
+RV00862,The app crashed while booking.,booking_experience,negative
+RV00862,It was a Tuesday morning.,other,neutral
+RV00863,Waited forever for the van to turn up.,punctuality,negative
+RV00863,The crew was polite and respectful.,staff_behaviour,positive
+RV00864,The interior was barely cleaned.,wash_quality,negative
+RV00864,One guy kept arguing with me.,staff_behaviour,negative
+RV00865,Very professional staff.,staff_behaviour,positive
+RV00865,Cheaper than going to a car wash.,price,positive
+RV00866,Nobody came until the afternoon.,punctuality,negative
+RV00866,The bill was higher than quoted.,price,negative
+RV00867,The car still had dirt on the bumpers.,wash_quality,negative
+RV00867,They were delayed and never called.,punctuality,negative
+RV00868,Very reasonable price.,price,positive
+RV00868,The crew was polite and respectful.,staff_behaviour,positive
+RV00869,One guy kept arguing with me.,staff_behaviour,negative
+RV00869,Paying through the app was smooth.,booking_experience,positive
+RV00870,Windows were crystal clear.,wash_quality,positive
+RV00870,Cheaper than going to a car wash.,price,positive
+RV00870,Loved how simple the app is.,booking_experience,negative
+RV00871,The interior was barely cleaned.,wash_quality,negative
+RV00871,Loved how simple the app is.,booking_experience,positive
+RV00872,Very professional staff.,staff_behaviour,positive
+RV00872,I parked in the office basement.,other,neutral
+RV00872,Charged extra without telling me.,price,negative
+RV00873,The crew arrived an hour late.,punctuality,negative
+RV00873,Fair rates for the quality.,price,positive
+RV00874,Showed up well after the slot I booked.,punctuality,negative
+RV00874,Cheaper than going to a car wash.,price,positive
+RV00875,Great finish on the paint.,wash_quality,positive
+RV00876,The crew turned up exactly at my slot.,punctuality,positive
+RV00876,I parked in the office basement.,other,neutral
+RV00876,Paying through the app was smooth.,booking_experience,positive
+RV00877,Cancelling was a hassle.,booking_experience,negative
+RV00877,The bill was higher than quoted.,price,negative
+RV00878,Very reasonable price.,price,positive
+RV00878,I parked in the office basement.,other,neutral
+RV00879,The crew arrived an hour late.,punctuality,negative
+RV00879,Very professional staff.,staff_behaviour,positive
+RV00879,Windows were crystal clear.,wash_quality,positive
+RV00880,Nobody came until the afternoon.,punctuality,negative
+RV00880,Paying through the app was smooth.,booking_experience,positive
+RV00880,My paint has fresh scratches now.,wash_quality,negative
+RV00881,Waited forever for the van to turn up.,punctuality,negative
+RV00881,I have been using this for a month.,other,neutral
+RV00881,Paying through the app was smooth.,booking_experience,positive
+RV00881,Friendly and helpful team.,staff_behaviour,positive
+RV00882,Fair rates for the quality.,price,positive
+RV00882,The interior looked brand new.,wash_quality,positive
+RV00883,The crew turned up exactly at my slot.,punctuality,positive
+RV00883,Booking was quick and easy.,other,neutral
+RV00883,The car was spotless and shining.,wash_quality,positive
+RV00884,Good value for the money.,price,positive
+RV00885,I parked in the office basement.,other,neutral
+RV00885,The crew turned up exactly at my slot.,punctuality,positive
+RV00885,Very professional staff.,staff_behaviour,positive
+RV00886,Cheaper than going to a car wash.,price,positive
+RV00886,Would tell my colleagues about it.,other,neutral
+RV00886,They were delayed and never called.,punctuality,negative
+RV00887,They explained everything patiently.,staff_behaviour,positive
+RV00887,Paying through the app was smooth.,booking_experience,positive
+RV00887,Very reasonable price.,price,positive
+RV00888,Very reasonable price.,price,positive
+RV00888,Would tell my colleagues about it.,other,neutral
+RV00888,They explained everything patiently.,staff_behaviour,positive
+RV00889,Booking was quick and easy.,booking_experience,positive
+RV00889,Cheaper than going to a car wash.,price,positive
+RV00890,The crew arrived an hour late.,punctuality,negative
+RV00890,Charged extra without telling me.,price,negative
+RV00891,They explained everything patiently.,staff_behaviour,positive
+RV00891,The interior looked brand new.,wash_quality,positive
+RV00891,Cheaper than going to a car wash.,price,positive
+RV00892,Good value for the money.,price,positive
+RV00892,The car was spotless and shining.,wash_quality,positive
+RV00893,"They were early, which I appreciated.",punctuality,positive
+RV00893,Good value for the money.,price,positive
+RV00893,The app crashed while booking.,booking_experience,negative
+RV00894,Good value for the money.,price,positive
+RV00894,The crew turned up exactly at my slot.,punctuality,positive
+RV00895,Paying through the app was smooth.,booking_experience,positive
+RV00895,They were delayed and never called.,punctuality,negative
+RV00896,I have been using this for a month.,other,neutral
+RV00896,Loved how simple the app is.,booking_experience,positive
+RV00897,It was a Tuesday morning.,other,neutral
+RV00897,The car was spotless and shining.,wash_quality,positive
+RV00897,Arrived right on time.,punctuality,positive
+RV00897,Very reasonable price.,price,positive
+RV00898,Waited forever for the van to turn up.,punctuality,negative
+RV00899,Friendly and helpful team.,staff_behaviour,positive
+RV00899,Charged extra without telling me.,price,negative
+RV00899,Would tell my colleagues about it.,other,neutral
+RV00900,Rescheduling took seconds.,booking_experience,positive
+RV00900,They explained everything patiently.,staff_behaviour,positive
+RV00901,Rescheduling took seconds.,booking_experience,positive
+RV00901,Friendly and helpful team.,staff_behaviour,positive
+RV00902,Rescheduling took seconds.,booking_experience,positive
+RV00902,The interior was barely cleaned.,staff_behaviour,positive
+RV00903,Cheaper than going to a car wash.,price,positive
+RV00903,Windows were crystal clear.,wash_quality,positive
+RV00903,Paying through the app was smooth.,punctuality,neutral
+RV00904,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00904,The car was spotless and shining.,other,positive
+RV00905,Windows were crystal clear.,wash_quality,positive
+RV00905,They explained everything patiently.,staff_behaviour,positive
+RV00906,I parked in the office basement.,other,neutral
+RV00906,The crew turned up exactly at my slot.,punctuality,positive
+RV00907,The crew was polite and respectful.,staff_behaviour,positive
+RV00907,Could not reschedule my appointment.,booking_experience,negative
+RV00908,I have been using this for a month.,other,neutral
+RV00908,The car was spotless and shining.,wash_quality,positive
+RV00908,Very reasonable price.,price,positive
+RV00909,Booking was quick and easy.,booking_experience,positive
+RV00910,Cheaper than going to a car wash.,price,positive
+RV00910,Rescheduling took seconds.,booking_experience,positive
+RV00911,The car was spotless and shining.,wash_quality,positive
+RV00911,Rescheduling took seconds.,booking_experience,positive
+RV00912,The car was spotless and shining.,wash_quality,positive
+RV00912,The bill was higher than quoted.,price,negative
+RV00912,"They were early, which I appreciated.",punctuality,positive
+RV00913,Friendly and helpful team.,staff_behaviour,positive
+RV00913,Showed up well after the slot I booked.,punctuality,negative
+RV00913,Good value for the money.,price,positive
+RV00914,They explained everything patiently.,staff_behaviour,positive
+RV00914,Cheaper than going to a car wash.,price,negative
+RV00914,The interior looked brand new.,wash_quality,positive
+RV00915,The car was spotless and shining.,price,neutral
+RV00915,Would tell my colleagues about it.,other,neutral
+RV00915,Good value for the money.,price,positive
+RV00916,The car was spotless and shining.,wash_quality,positive
+RV00916,Charged extra without telling me.,price,negative
+RV00917,Fair rates for the quality.,price,positive
+RV00917,Rescheduling took seconds.,booking_experience,positive
+RV00917,The car still had dirt on the bumpers.,wash_quality,negative
+RV00918,Cheaper than going to a car wash.,price,positive
+RV00918,The car was spotless and shining.,wash_quality,positive
+RV00919,Arrived right on time.,punctuality,positive
+RV00919,The interior looked brand new.,wash_quality,positive
+RV00920,Windows were crystal clear.,punctuality,positive
+RV00920,Friendly and helpful team.,staff_behaviour,positive
+RV00921,Not worth the money.,price,negative
+RV00921,They explained everything patiently.,staff_behaviour,positive
+RV00921,They were delayed and never called.,punctuality,negative
+RV00922,Loved how simple the app is.,booking_experience,positive
+RV00923,Good value for the money.,price,positive
+RV00923,"They were early, which I appreciated.",punctuality,positive
+RV00924,Showed up well after the slot I booked.,punctuality,negative
+RV00924,The bill was higher than quoted.,price,negative
+RV00924,Rescheduling took seconds.,booking_experience,positive
+RV00925,One guy kept arguing with me.,staff_behaviour,negative
+RV00925,I parked in the office basement.,other,neutral
+RV00925,Loved how simple the app is.,wash_quality,positive
+RV00926,The crew turned up exactly at my slot.,punctuality,positive
+RV00926,Friendly and helpful team.,staff_behaviour,positive
+RV00927,It was a Tuesday morning.,other,neutral
+RV00927,Windows were crystal clear.,wash_quality,positive
+RV00928,They were delayed and never called.,punctuality,negative
+RV00928,Fair rates for the quality.,price,positive
+RV00929,The car was spotless and shining.,wash_quality,positive
+RV00930,Cheaper than going to a car wash.,price,positive
+RV00930,The crew was rude and dismissive.,staff_behaviour,negative
+RV00931,They explained everything patiently.,staff_behaviour,positive
+RV00932,Windows were crystal clear.,wash_quality,negative
+RV00932,Arrived right on time.,punctuality,positive
+RV00933,The car was spotless and shining.,wash_quality,positive
+RV00933,Cancelling was a hassle.,booking_experience,negative
+RV00934,Charged extra without telling me.,price,negative
+RV00934,Paying through the app was smooth.,wash_quality,neutral
+RV00935,Charged extra without telling me.,price,negative
+RV00935,Paying through the app was smooth.,booking_experience,positive
+RV00935,The crew was polite and respectful.,staff_behaviour,positive
+RV00936,I have been using this for a month.,other,neutral
+RV00936,Showed up well after the slot I booked.,punctuality,negative
+RV00937,Nobody came until the afternoon.,punctuality,negative
+RV00937,The interior looked brand new.,wash_quality,positive
+RV00937,Booking was quick and easy.,booking_experience,positive
+RV00938,I parked in the office basement.,other,neutral
+RV00938,Windows were crystal clear.,wash_quality,positive
+RV00938,Nobody came until the afternoon.,punctuality,negative
+RV00939,Great finish on the paint.,wash_quality,positive
+RV00939,The crew was polite and respectful.,staff_behaviour,positive
+RV00940,The crew turned up exactly at my slot.,punctuality,positive
+RV00940,It was a Tuesday morning.,other,neutral
+RV00940,The interior was barely cleaned.,wash_quality,negative
+RV00941,They explained everything patiently.,staff_behaviour,positive
+RV00941,Rescheduling took seconds.,booking_experience,positive
+RV00941,Good value for the money.,price,positive
+RV00941,It was a Tuesday morning.,other,neutral
+RV00942,They were delayed and never called.,punctuality,negative
+RV00942,Good value for the money.,price,positive
+RV00943,Friendly and helpful team.,staff_behaviour,positive
+RV00943,Could not reschedule my appointment.,booking_experience,negative
+RV00943,Showed up well after the slot I booked.,booking_experience,neutral
+RV00944,Great finish on the paint.,wash_quality,positive
+RV00944,Booking was quick and easy.,booking_experience,positive
+RV00945,The bill was higher than quoted.,price,negative
+RV00946,Nobody came until the afternoon.,punctuality,negative
+RV00946,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00947,Great finish on the paint.,wash_quality,positive
+RV00947,Fair rates for the quality.,price,positive
+RV00948,Good value for the money.,price,positive
+RV00948,Showed up well after the slot I booked.,punctuality,negative
+RV00949,Booking was quick and easy.,booking_experience,positive
+RV00949,Windows were crystal clear.,wash_quality,positive
+RV00949,Not worth the money.,price,negative
+RV00950,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00950,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00950,Paying through the app was smooth.,booking_experience,positive
+RV00951,It was a Tuesday morning.,other,neutral
+RV00951,They ignored my instructions completely.,staff_behaviour,negative
+RV00951,Very reasonable price.,price,positive
+RV00952,Way too expensive for a basic wash.,price,negative
+RV00952,The crew was polite and respectful.,staff_behaviour,positive
+RV00952,Paying through the app was smooth.,booking_experience,positive
+RV00953,Very professional staff.,staff_behaviour,positive
+RV00954,Fair rates for the quality.,staff_behaviour,negative
+RV00955,Punctual and quick to start.,punctuality,positive
+RV00955,Cheaper than going to a car wash.,price,positive
+RV00956,Good value for the money.,price,positive
+RV00956,Staff were careless and unprofessional.,staff_behaviour,negative
+RV00957,Rescheduling took seconds.,booking_experience,positive
+RV00957,The car still had dirt on the bumpers.,wash_quality,negative
+RV00958,They explained everything patiently.,staff_behaviour,positive
+RV00958,Good value for the money.,price,positive
+RV00958,The interior looked brand new.,wash_quality,positive
+RV00959,"They were early, which I appreciated.",punctuality,positive
+RV00959,Way too expensive for a basic wash.,price,negative
+RV00960,Very reasonable price.,price,positive
+RV00960,Showed up well after the slot I booked.,punctuality,negative
+RV00960,The interior looked brand new.,wash_quality,positive
+RV00961,Great finish on the paint.,wash_quality,positive
+RV00961,Payment failed twice in the app.,booking_experience,negative
+RV00961,I have been using this for a month.,other,neutral
+RV00962,Fair rates for the quality.,price,positive
+RV00962,Windows were crystal clear.,wash_quality,positive
+RV00963,Loved how simple the app is.,booking_experience,positive
+RV00963,One guy kept arguing with me.,staff_behaviour,negative
+RV00964,Loved how simple the app is.,booking_experience,positive
+RV00964,Arrived right on time.,price,positive
+RV00964,Friendly and helpful team.,staff_behaviour,positive
+RV00965,The interior was barely cleaned.,wash_quality,negative
+RV00965,Not worth the money.,price,negative
+RV00966,Cheaper than going to a car wash.,price,positive
+RV00966,The interior looked brand new.,wash_quality,positive
+RV00967,Payment failed twice in the app.,booking_experience,negative
+RV00968,Cancelling was a hassle.,booking_experience,negative
+RV00969,Windows were crystal clear.,wash_quality,positive
+RV00969,Punctual and quick to start.,punctuality,positive
+RV00969,It was a Tuesday morning.,other,neutral
+RV00970,Punctual and quick to start.,punctuality,positive
+RV00970,Great finish on the paint.,wash_quality,positive
+RV00971,The crew was polite and respectful.,booking_experience,negative
+RV00972,The crew was rude and dismissive.,staff_behaviour,negative
+RV00973,Booking was quick and easy.,booking_experience,positive
+RV00974,Good value for the money.,price,positive
+RV00974,Left water marks all over the windshield.,wash_quality,negative
+RV00974,Loved how simple the app is.,booking_experience,positive
+RV00975,Friendly and helpful team.,staff_behaviour,positive
+RV00975,The crew turned up exactly at my slot.,punctuality,positive
+RV00976,Very reasonable price.,price,positive
+RV00976,Booking was quick and easy.,booking_experience,positive
+RV00977,They ignored my instructions completely.,staff_behaviour,negative
+RV00978,Payment failed twice in the app.,booking_experience,negative
+RV00979,One guy kept arguing with me.,staff_behaviour,negative
+RV00979,Paying through the app was smooth.,punctuality,neutral
+RV00980,Very reasonable price.,price,positive
+RV00980,Rescheduling took seconds.,staff_behaviour,neutral
+RV00980,I have been using this for a month.,other,neutral
+RV00980,The car was spotless and shining.,wash_quality,positive
+RV00981,Good value for the money.,price,positive
+RV00982,Left water marks all over the windshield.,wash_quality,negative
+RV00983,The crew arrived an hour late.,punctuality,negative
+RV00983,Cancelling was a hassle.,booking_experience,negative
+RV00984,Fair rates for the quality.,price,positive
+RV00984,The interior looked brand new.,wash_quality,positive
+RV00984,I parked in the office basement.,other,neutral
+RV00985,Very professional staff.,staff_behaviour,positive
+RV00985,The car was spotless and shining.,wash_quality,positive
+RV00986,I parked in the office basement.,other,neutral
+RV00986,The bill was higher than quoted.,price,negative
+RV00987,Payment failed twice in the app.,booking_experience,negative
+RV00987,Would tell my colleagues about it.,other,neutral
+RV00987,Very professional staff.,staff_behaviour,positive
+RV00988,Fair rates for the quality.,price,positive
+RV00988,Nobody came until the afternoon.,punctuality,negative
+RV00989,The interior looked brand new.,wash_quality,positive
+RV00990,Loved how simple the app is.,wash_quality,neutral
+RV00991,Friendly and helpful team.,staff_behaviour,positive
+RV00991,The car was spotless and shining.,wash_quality,positive
+RV00992,Punctual and quick to start.,punctuality,positive
+RV00992,Very reasonable price.,price,positive
+RV00993,Rescheduling took seconds.,booking_experience,positive
+RV00994,The car still had dirt on the bumpers.,wash_quality,negative
+RV00995,It was a Tuesday morning.,other,neutral
+RV00995,They were delayed and never called.,punctuality,negative
+RV00995,Paying through the app was smooth.,booking_experience,positive
+RV00996,Cheaper than going to a car wash.,staff_behaviour,negative
+RV00996,Loved how simple the app is.,price,positive
+RV00996,The interior was barely cleaned.,wash_quality,negative
+RV00997,Cheaper than going to a car wash.,price,positive
+RV00997,Missed spots and the polish looked streaky.,wash_quality,negative
+RV00998,Fair rates for the quality.,price,positive
+RV00998,One guy kept arguing with me.,staff_behaviour,negative
+RV00998,Left water marks all over the windshield.,wash_quality,negative
+RV00999,I parked in the office basement.,other,neutral
+RV00999,Fair rates for the quality.,price,positive
+RV00999,Windows were crystal clear.,wash_quality,positive
+RV01000,My paint has fresh scratches now.,wash_quality,negative
+RV01000,Fair rates for the quality.,price,positive
+RV01000,The crew turned up exactly at my slot.,punctuality,positive
+RV01001,The crew arrived an hour late.,punctuality,negative
+RV01001,Booking was quick and easy.,booking_experience,positive
+RV01002,The interior looked brand new.,wash_quality,positive
+RV01002,Rescheduling took seconds.,booking_experience,positive
+RV01003,Friendly and helpful team.,staff_behaviour,positive
+RV01003,The crew turned up exactly at my slot.,punctuality,positive
+RV01003,I have been using this for a month.,other,neutral
+RV01004,Arrived right on time.,punctuality,positive
+RV01004,Great finish on the paint.,wash_quality,positive
+RV01005,The interior looked brand new.,wash_quality,positive
+RV01005,Very reasonable price.,price,positive
+RV01006,Loved how simple the app is.,booking_experience,positive
+RV01006,One guy kept arguing with me.,staff_behaviour,negative
+RV01007,Not worth the money.,price,negative
+RV01007,Booking was quick and easy.,booking_experience,positive
+RV01007,Punctual and quick to start.,punctuality,positive
+RV01008,Punctual and quick to start.,punctuality,positive
+RV01008,Very professional staff.,staff_behaviour,positive
+RV01008,Great finish on the paint.,wash_quality,positive
+RV01009,They explained everything patiently.,staff_behaviour,positive
+RV01010,Very professional staff.,staff_behaviour,positive
+RV01010,Cheaper than going to a car wash.,price,positive
+RV01010,The crew arrived an hour late.,wash_quality,negative
+RV01011,Great finish on the paint.,punctuality,positive
+RV01011,The crew turned up exactly at my slot.,punctuality,positive
+RV01012,Windows were crystal clear.,wash_quality,positive
+RV01013,I have been using this for a month.,other,neutral
+RV01013,The car still had dirt on the bumpers.,wash_quality,negative
+RV01014,The crew turned up exactly at my slot.,punctuality,positive
+RV01014,Loved how simple the app is.,booking_experience,positive
+RV01015,Way too expensive for a basic wash.,price,negative
+RV01015,I parked in the office basement.,other,neutral
+RV01016,Waited forever for the van to turn up.,punctuality,negative
+RV01016,Loved how simple the app is.,booking_experience,positive
+RV01016,Would tell my colleagues about it.,other,neutral
+RV01017,Friendly and helpful team.,staff_behaviour,positive
+RV01017,I have been using this for a month.,other,neutral
+RV01018,Arrived right on time.,punctuality,positive
+RV01018,Cheaper than going to a car wash.,price,positive
+RV01018,Booking was quick and easy.,booking_experience,positive
+RV01019,Could not reschedule my appointment.,booking_experience,negative
+RV01019,The interior was barely cleaned.,wash_quality,negative
+RV01020,Booking was quick and easy.,booking_experience,positive
+RV01020,The bill was higher than quoted.,price,negative
+RV01020,The interior looked brand new.,wash_quality,positive
+RV01021,It was a Tuesday morning.,other,neutral
+RV01021,Missed spots and the polish looked streaky.,wash_quality,negative
+RV01021,Waited forever for the van to turn up.,punctuality,negative
+RV01022,Good value for the money.,price,positive
+RV01022,Windows were crystal clear.,wash_quality,positive
+RV01023,Windows were crystal clear.,wash_quality,positive
+RV01023,Paying through the app was smooth.,booking_experience,positive
+RV01024,Cheaper than going to a car wash.,price,positive
+RV01024,Loved how simple the app is.,booking_experience,positive
+RV01025,Cheaper than going to a car wash.,price,positive
+RV01025,The interior looked brand new.,wash_quality,positive
+RV01025,Paying through the app was smooth.,booking_experience,positive
+RV01026,Loved how simple the app is.,booking_experience,positive
+RV01026,Windows were crystal clear.,wash_quality,positive
+RV01027,It was a Tuesday morning.,other,neutral
+RV01027,Rescheduling took seconds.,booking_experience,positive
+RV01028,Friendly and helpful team.,staff_behaviour,positive
+RV01028,Punctual and quick to start.,punctuality,positive
+RV01029,The car was spotless and shining.,wash_quality,positive
+RV01029,Loved how simple the app is.,booking_experience,positive
+RV01029,I have been using this for a month.,other,neutral
+RV01030,Charged extra without telling me.,price,negative
+RV01030,Windows were crystal clear.,wash_quality,positive
+RV01030,It was a Tuesday morning.,other,neutral
+RV01030,The crew arrived an hour late.,punctuality,negative
+RV01031,It was a Tuesday morning.,other,neutral
+RV01031,The interior was barely cleaned.,wash_quality,negative
+RV01031,Rescheduling took seconds.,booking_experience,positive
+RV01031,The crew was rude and dismissive.,staff_behaviour,negative
+RV01032,The crew was polite and respectful.,staff_behaviour,positive
+RV01033,The crew arrived an hour late.,punctuality,negative
+RV01034,Punctual and quick to start.,punctuality,positive
+RV01034,Staff were careless and unprofessional.,staff_behaviour,negative
+RV01035,Waited forever for the van to turn up.,other,negative
+RV01035,Paying through the app was smooth.,booking_experience,positive
+RV01035,I have been using this for a month.,wash_quality,negative
+RV01036,Paying through the app was smooth.,booking_experience,positive
+RV01036,Staff were careless and unprofessional.,staff_behaviour,negative
+RV01037,Waited forever for the van to turn up.,punctuality,negative
+RV01037,Friendly and helpful team.,staff_behaviour,positive
+RV01037,Good value for the money.,price,positive
+RV01038,Would tell my colleagues about it.,other,neutral
+RV01038,Rescheduling took seconds.,booking_experience,positive
+RV01038,Very professional staff.,staff_behaviour,positive
+RV01039,Arrived right on time.,punctuality,positive
+RV01040,They explained everything patiently.,staff_behaviour,positive
+RV01040,Loved how simple the app is.,booking_experience,positive
+RV01041,Loved how simple the app is.,booking_experience,positive
+RV01041,Punctual and quick to start.,punctuality,positive
+RV01041,It was a Tuesday morning.,other,neutral
+RV01042,Booking was quick and easy.,booking_experience,positive
+RV01042,The crew was rude and dismissive.,staff_behaviour,negative
+RV01042,Good value for the money.,price,positive
+RV01043,One guy kept arguing with me.,staff_behaviour,negative
+RV01044,Arrived right on time.,punctuality,positive
+RV01044,The crew was polite and respectful.,staff_behaviour,positive
+RV01045,"They were early, which I appreciated.",punctuality,positive
+RV01045,I parked in the office basement.,other,neutral
+RV01045,The app crashed while booking.,booking_experience,negative
+RV01046,Windows were crystal clear.,wash_quality,positive
+RV01046,They were delayed and never called.,punctuality,neutral
+RV01047,Great finish on the paint.,wash_quality,positive
+RV01047,It was a Tuesday morning.,other,neutral
+RV01047,Very reasonable price.,price,positive
+RV01048,Rescheduling took seconds.,booking_experience,positive
+RV01048,The interior looked brand new.,wash_quality,positive
+RV01048,"They were early, which I appreciated.",punctuality,positive
+RV01049,Very professional staff.,staff_behaviour,positive
+RV01049,Windows were crystal clear.,wash_quality,positive
+RV01050,Very professional staff.,staff_behaviour,positive
+RV01050,Loved how simple the app is.,booking_experience,positive
+RV01051,Windows were crystal clear.,wash_quality,positive
+RV01051,It was a Tuesday morning.,other,neutral
+RV01051,Loved how simple the app is.,booking_experience,positive
+RV01052,The interior looked brand new.,wash_quality,positive
+RV01052,They explained everything patiently.,staff_behaviour,positive
+RV01053,The crew was polite and respectful.,staff_behaviour,positive
+RV01053,Great finish on the paint.,wash_quality,positive
+RV01053,The crew turned up exactly at my slot.,punctuality,positive
+RV01054,I parked in the office basement.,other,neutral
+RV01054,The car still had dirt on the bumpers.,wash_quality,negative
+RV01055,Fair rates for the quality.,price,positive
+RV01055,Would tell my colleagues about it.,other,neutral
+RV01056,Very reasonable price.,price,positive
+RV01056,Booking was quick and easy.,booking_experience,positive
+RV01056,They explained everything patiently.,staff_behaviour,positive
+RV01056,It was a Tuesday morning.,other,neutral
+RV01057,It was a Tuesday morning.,other,neutral
+RV01057,Rescheduling took seconds.,booking_experience,positive
+RV01057,Way too expensive for a basic wash.,price,negative
+RV01057,Arrived right on time.,punctuality,positive
+RV01058,Arrived right on time.,punctuality,positive
+RV01059,They were delayed and never called.,punctuality,negative
+RV01059,Left water marks all over the windshield.,wash_quality,negative
+RV01059,Paying through the app was smooth.,booking_experience,positive
+RV01059,Would tell my colleagues about it.,other,neutral
+RV01060,Fair rates for the quality.,price,positive
+RV01060,They were delayed and never called.,punctuality,negative
+RV01060,Great finish on the paint.,price,neutral
+RV01061,"They were early, which I appreciated.",punctuality,positive
+RV01061,They explained everything patiently.,staff_behaviour,positive
+RV01061,I have been using this for a month.,other,neutral
+RV01061,Fair rates for the quality.,price,positive
+RV01062,Nobody came until the afternoon.,punctuality,negative
+RV01062,Could not reschedule my appointment.,booking_experience,negative
+RV01063,Cancelling was a hassle.,booking_experience,negative
+RV01063,Way too expensive for a basic wash.,price,negative
+RV01063,Waited forever for the van to turn up.,punctuality,negative
+RV01064,Windows were crystal clear.,wash_quality,positive
+RV01064,Friendly and helpful team.,staff_behaviour,positive
+RV01065,Great finish on the paint.,wash_quality,positive
+RV01066,Cancelling was a hassle.,booking_experience,negative
+RV01067,Not worth the money.,other,positive
+RV01068,Good value for the money.,price,positive
+RV01068,Loved how simple the app is.,booking_experience,positive
+RV01069,Arrived right on time.,punctuality,positive
+RV01069,Very reasonable price.,staff_behaviour,neutral
+RV01070,Cheaper than going to a car wash.,price,positive
+RV01070,Very professional staff.,staff_behaviour,positive
+RV01071,The bill was higher than quoted.,price,negative
+RV01071,Would tell my colleagues about it.,other,neutral
+RV01071,The crew was polite and respectful.,staff_behaviour,positive
+RV01072,The interior looked brand new.,wash_quality,positive
+RV01072,Payment failed twice in the app.,booking_experience,negative
+RV01073,The interior looked brand new.,wash_quality,positive
+RV01073,They explained everything patiently.,staff_behaviour,positive
+RV01073,It was a Tuesday morning.,other,neutral
+RV01074,Missed spots and the polish looked streaky.,wash_quality,negative
+RV01074,Very professional staff.,staff_behaviour,positive
+RV01075,They ignored my instructions completely.,staff_behaviour,negative
+RV01076,Waited forever for the van to turn up.,punctuality,negative
+RV01077,The app crashed while booking.,booking_experience,negative
+RV01077,Fair rates for the quality.,price,positive
+RV01078,The crew arrived an hour late.,punctuality,negative
+RV01078,Would tell my colleagues about it.,other,neutral
+RV01078,The car was spotless and shining.,wash_quality,positive
+RV01079,Nobody came until the afternoon.,punctuality,negative
+RV01080,Rescheduling took seconds.,booking_experience,positive
+RV01080,The interior looked brand new.,wash_quality,positive
+RV01081,Very reasonable price.,price,positive
+RV01081,It was a Tuesday morning.,other,neutral
+RV01081,My paint has fresh scratches now.,wash_quality,negative
+RV01081,Punctual and quick to start.,punctuality,positive
+RV01082,Windows were crystal clear.,wash_quality,positive
+RV01083,"They were early, which I appreciated.",punctuality,positive
+RV01084,Rescheduling took seconds.,booking_experience,positive
+RV01084,Punctual and quick to start.,punctuality,positive
+RV01084,The bill was higher than quoted.,price,negative
+RV01085,The crew turned up exactly at my slot.,punctuality,positive
+RV01085,The interior was barely cleaned.,wash_quality,negative
+RV01085,Good value for the money.,price,positive
+RV01086,Very reasonable price.,price,positive
+RV01087,I parked in the office basement.,wash_quality,negative
+RV01087,Great finish on the paint.,wash_quality,positive
+RV01087,Waited forever for the van to turn up.,punctuality,negative
+RV01087,Charged extra without telling me.,price,negative
+RV01088,Staff were careless and unprofessional.,staff_behaviour,negative
+RV01089,Way too expensive for a basic wash.,price,negative
+RV01089,The car was spotless and shining.,wash_quality,positive
+RV01090,I parked in the office basement.,other,neutral
+RV01090,The crew arrived an hour late.,punctuality,negative
+RV01090,Booking was quick and easy.,wash_quality,neutral
+RV01090,Great finish on the paint.,wash_quality,positive
+RV01091,Booking was quick and easy.,booking_experience,positive
+RV01092,I have been using this for a month.,price,positive
+RV01092,"They were early, which I appreciated.",punctuality,positive
+RV01092,The interior looked brand new.,wash_quality,positive
+RV01092,Rescheduling took seconds.,booking_experience,positive
+RV01093,It was a Tuesday morning.,other,neutral
+RV01093,Very professional staff.,staff_behaviour,positive
+RV01093,Rescheduling took seconds.,booking_experience,positive
+RV01093,Fair rates for the quality.,price,positive
+RV01094,Booking was quick and easy.,booking_experience,positive
+RV01094,Cheaper than going to a car wash.,wash_quality,neutral
+RV01094,Left water marks all over the windshield.,wash_quality,negative
+RV01095,Left water marks all over the windshield.,wash_quality,negative
+RV01095,The app crashed while booking.,booking_experience,negative
+RV01095,Fair rates for the quality.,price,positive
+RV01096,They ignored my instructions completely.,booking_experience,negative
+RV01096,The interior was barely cleaned.,wash_quality,negative
+RV01096,I parked in the office basement.,other,neutral
+RV01096,"They were early, which I appreciated.",punctuality,positive
+RV01097,Way too expensive for a basic wash.,price,negative
+RV01097,Rescheduling took seconds.,booking_experience,positive
+RV01098,Booking was quick and easy.,booking_experience,positive
+RV01098,The crew turned up exactly at my slot.,punctuality,positive
+RV01098,Very professional staff.,staff_behaviour,positive
+RV01099,Staff were careless and unprofessional.,staff_behaviour,negative
+RV01099,Charged extra without telling me.,price,negative
+RV01099,Nobody came until the afternoon.,punctuality,negative
+RV01099,I parked in the office basement.,other,neutral
+RV01100,The crew was polite and respectful.,staff_behaviour,positive
+RV01100,I parked in the office basement.,other,neutral
+RV01101,Cheaper than going to a car wash.,price,positive
+RV01101,They explained everything patiently.,staff_behaviour,positive
+RV01102,The interior looked brand new.,wash_quality,positive
+RV01102,Nobody came until the afternoon.,punctuality,negative
+RV01103,Great finish on the paint.,wash_quality,positive
+RV01103,Loved how simple the app is.,booking_experience,positive
+RV01104,Loved how simple the app is.,price,neutral
+RV01104,Cheaper than going to a car wash.,price,positive
+RV01104,It was a Tuesday morning.,other,neutral
+RV01105,The crew was polite and respectful.,staff_behaviour,positive
+RV01106,My paint has fresh scratches now.,booking_experience,neutral
+RV01106,Rescheduling took seconds.,booking_experience,positive
+RV01106,Good value for the money.,price,positive
+RV01106,Would tell my colleagues about it.,other,neutral
+RV01107,Arrived right on time.,punctuality,positive
+RV01107,Payment failed twice in the app.,booking_experience,negative
+RV01108,Booking was quick and easy.,booking_experience,positive
+RV01108,The crew was rude and dismissive.,staff_behaviour,negative
+RV01109,Booking was quick and easy.,booking_experience,positive
+RV01109,They explained everything patiently.,staff_behaviour,positive
+RV01109,It was a Tuesday morning.,other,neutral
+RV01110,Paying through the app was smooth.,booking_experience,positive
+RV01110,Great finish on the paint.,wash_quality,positive
+RV01110,Very professional staff.,staff_behaviour,positive
+RV01111,The car was spotless and shining.,wash_quality,positive
+RV01111,I have been using this for a month.,other,neutral
+RV01111,One guy kept arguing with me.,staff_behaviour,negative
+RV01112,Very professional staff.,staff_behaviour,positive
+RV01112,Booking was quick and easy.,wash_quality,neutral
+RV01113,Staff were careless and unprofessional.,staff_behaviour,negative
+RV01113,"They were early, which I appreciated.",punctuality,positive
+RV01114,Charged extra without telling me.,price,negative
+RV01114,Windows were crystal clear.,wash_quality,positive
+RV01114,Friendly and helpful team.,staff_behaviour,positive
+RV01115,Rescheduling took seconds.,booking_experience,positive
+RV01115,The interior looked brand new.,wash_quality,positive
+RV01115,The crew was rude and dismissive.,staff_behaviour,negative
+RV01116,Friendly and helpful team.,staff_behaviour,negative
+RV01116,Booking was quick and easy.,booking_experience,positive
+RV01117,Fair rates for the quality.,price,positive
+RV01118,They explained everything patiently.,staff_behaviour,positive
+RV01118,The car was spotless and shining.,wash_quality,positive
+RV01119,"They were early, which I appreciated.",punctuality,positive
+RV01119,Would tell my colleagues about it.,other,neutral
+RV01119,Cheaper than going to a car wash.,price,positive
+RV01119,The car was spotless and shining.,wash_quality,positive
+RV01120,They ignored my instructions completely.,staff_behaviour,negative
+RV01120,Showed up well after the slot I booked.,punctuality,negative
+RV01120,Loved how simple the app is.,booking_experience,positive
+RV01121,Not worth the money.,price,negative
+RV01121,The interior looked brand new.,wash_quality,positive
+RV01121,Nobody came until the afternoon.,punctuality,negative
+RV01122,The interior was barely cleaned.,wash_quality,negative
+RV01123,Punctual and quick to start.,punctuality,positive
+RV01123,Rescheduling took seconds.,booking_experience,positive
+RV01123,I parked in the office basement.,other,neutral
+RV01123,The interior looked brand new.,wash_quality,positive
+RV01124,Left water marks all over the windshield.,wash_quality,negative
+RV01125,"They were early, which I appreciated.",punctuality,positive
+RV01125,They ignored my instructions completely.,staff_behaviour,negative
+RV01125,I parked in the office basement.,other,neutral
+RV01126,I parked in the office basement.,other,neutral
+RV01126,The app crashed while booking.,booking_experience,negative
+RV01126,Cheaper than going to a car wash.,price,positive
+RV01127,I have been using this for a month.,other,neutral
+RV01127,The crew was polite and respectful.,staff_behaviour,positive
+RV01128,I have been using this for a month.,other,neutral
+RV01128,Cancelling was a hassle.,booking_experience,negative
+RV01128,Punctual and quick to start.,punctuality,positive
+RV01129,They explained everything patiently.,staff_behaviour,neutral
+RV01129,Not worth the money.,price,negative
+RV01130,The car was spotless and shining.,wash_quality,positive
+RV01131,The car was spotless and shining.,wash_quality,positive
+RV01131,Would tell my colleagues about it.,other,neutral
+RV01132,Rescheduling took seconds.,booking_experience,positive
+RV01133,Very professional staff.,staff_behaviour,positive
+RV01133,Would tell my colleagues about it.,other,neutral
+RV01134,Cancelling was a hassle.,booking_experience,negative
+RV01134,Would tell my colleagues about it.,other,neutral
+RV01135,The crew was polite and respectful.,staff_behaviour,positive
+RV01135,Nobody came until the afternoon.,punctuality,negative
+RV01136,Rescheduling took seconds.,booking_experience,positive
+RV01136,The car was spotless and shining.,wash_quality,positive
+RV01137,My paint has fresh scratches now.,punctuality,neutral
+RV01137,Booking was quick and easy.,booking_experience,positive
+RV01137,They explained everything patiently.,staff_behaviour,positive
+RV01138,Great finish on the paint.,wash_quality,positive
+RV01138,I have been using this for a month.,other,neutral
+RV01138,Booking was quick and easy.,booking_experience,positive
+RV01139,Could not reschedule my appointment.,booking_experience,negative
+RV01140,Charged extra without telling me.,price,negative
+RV01141,Good value for the money.,price,positive
+RV01141,They explained everything patiently.,staff_behaviour,positive
+RV01142,The app crashed while booking.,price,positive
+RV01142,Fair rates for the quality.,price,positive
+RV01143,Showed up well after the slot I booked.,punctuality,negative
+RV01143,Booking was quick and easy.,booking_experience,positive
+RV01143,The crew was polite and respectful.,staff_behaviour,positive
+RV01144,The bill was higher than quoted.,price,negative
+RV01144,Could not reschedule my appointment.,booking_experience,negative
+RV01144,I parked in the office basement.,other,neutral
+RV01145,Rescheduling took seconds.,booking_experience,positive
+RV01145,They explained everything patiently.,staff_behaviour,positive
+RV01146,The interior looked brand new.,wash_quality,positive
+RV01147,Way too expensive for a basic wash.,wash_quality,negative
+RV01147,Nobody came until the afternoon.,punctuality,negative
+RV01148,Cheaper than going to a car wash.,price,positive
+RV01148,Very professional staff.,staff_behaviour,positive
+RV01149,Friendly and helpful team.,staff_behaviour,positive
+RV01150,The crew arrived an hour late.,punctuality,negative
+RV01150,Could not reschedule my appointment.,booking_experience,negative
+RV01150,They ignored my instructions completely.,staff_behaviour,negative
+RV01151,The interior was barely cleaned.,wash_quality,negative
+RV01151,They ignored my instructions completely.,staff_behaviour,negative
+RV01151,Would tell my colleagues about it.,other,neutral
+RV01152,Would tell my colleagues about it.,price,negative
+RV01152,The crew turned up exactly at my slot.,punctuality,positive
+RV01153,The crew turned up exactly at my slot.,punctuality,positive
+RV01153,Would tell my colleagues about it.,other,neutral
+RV01153,Rescheduling took seconds.,booking_experience,positive
+RV01154,I have been using this for a month.,other,neutral
+RV01154,One guy kept arguing with me.,staff_behaviour,negative
+RV01155,Left water marks all over the windshield.,staff_behaviour,negative
+RV01155,"They were early, which I appreciated.",punctuality,positive
+RV01155,I have been using this for a month.,other,neutral
+RV01155,Rescheduling took seconds.,booking_experience,positive
+RV01156,It was a Tuesday morning.,other,neutral
+RV01156,The crew turned up exactly at my slot.,punctuality,positive
+RV01157,Good value for the money.,price,positive
+RV01157,It was a Tuesday morning.,other,neutral
+RV01157,Windows were crystal clear.,wash_quality,positive
+RV01158,Windows were crystal clear.,wash_quality,positive
+RV01159,Windows were crystal clear.,wash_quality,positive
+RV01159,Arrived right on time.,punctuality,positive
+RV01160,The car was spotless and shining.,wash_quality,positive
+RV01160,I have been using this for a month.,other,neutral
+RV01160,Nobody came until the afternoon.,punctuality,negative
+RV01161,The car was spotless and shining.,wash_quality,positive
+RV01161,Paying through the app was smooth.,booking_experience,positive
+RV01161,I have been using this for a month.,other,neutral
+RV01162,Booking was quick and easy.,booking_experience,positive
+RV01162,Arrived right on time.,punctuality,positive
+RV01163,"They were early, which I appreciated.",punctuality,positive
+RV01164,Punctual and quick to start.,punctuality,positive
+RV01164,Booking was quick and easy.,booking_experience,positive
+RV01165,Booking was quick and easy.,booking_experience,positive
+RV01165,The crew was polite and respectful.,staff_behaviour,positive
+RV01165,Not worth the money.,punctuality,negative
+RV01166,The interior looked brand new.,wash_quality,positive
+RV01166,Not worth the money.,price,negative
+RV01167,They explained everything patiently.,staff_behaviour,positive
+RV01167,Loved how simple the app is.,booking_experience,positive
+RV01168,Charged extra without telling me.,price,negative
+RV01168,It was a Tuesday morning.,other,neutral
+RV01169,"They were early, which I appreciated.",punctuality,positive
+RV01169,The car still had dirt on the bumpers.,wash_quality,negative
+RV01169,I have been using this for a month.,other,neutral
+RV01170,Fair rates for the quality.,price,positive
+RV01170,Loved how simple the app is.,booking_experience,positive
+RV01171,The interior looked brand new.,wash_quality,positive
+RV01172,Charged extra without telling me.,price,negative
+RV01172,Friendly and helpful team.,staff_behaviour,positive
+RV01173,The bill was higher than quoted.,price,negative
+RV01173,Would tell my colleagues about it.,price,negative
+RV01174,The crew was polite and respectful.,staff_behaviour,positive
+RV01174,Windows were crystal clear.,wash_quality,positive
+RV01175,The interior looked brand new.,wash_quality,positive
+RV01175,I parked in the office basement.,other,neutral
+RV01176,They explained everything patiently.,staff_behaviour,positive
+RV01176,Booking was quick and easy.,booking_experience,positive
+RV01176,I parked in the office basement.,other,neutral
+RV01176,The crew arrived an hour late.,punctuality,negative
+RV01177,Paying through the app was smooth.,booking_experience,positive
+RV01177,Nobody came until the afternoon.,punctuality,negative
+RV01178,Great finish on the paint.,wash_quality,positive
+RV01178,The crew turned up exactly at my slot.,punctuality,negative
+RV01179,Very reasonable price.,price,positive
+RV01179,I have been using this for a month.,other,neutral
+RV01179,Showed up well after the slot I booked.,punctuality,negative
+RV01179,Very professional staff.,staff_behaviour,positive
+RV01180,The interior looked brand new.,wash_quality,positive
+RV01181,Good value for the money.,price,positive
+RV01182,My paint has fresh scratches now.,wash_quality,negative
+RV01182,The crew arrived an hour late.,punctuality,negative
+RV01183,Left water marks all over the windshield.,wash_quality,negative
+RV01183,"They were early, which I appreciated.",punctuality,positive
+RV01184,Cheaper than going to a car wash.,price,positive
+RV01184,Staff were careless and unprofessional.,staff_behaviour,negative
+RV01184,It was a Tuesday morning.,other,neutral
+RV01185,Could not reschedule my appointment.,booking_experience,negative
+RV01185,The crew was polite and respectful.,staff_behaviour,positive
+RV01185,Way too expensive for a basic wash.,price,negative
+RV01186,I parked in the office basement.,other,neutral
+RV01186,"They were early, which I appreciated.",punctuality,positive
+RV01187,Good value for the money.,price,positive
+RV01188,Staff were careless and unprofessional.,staff_behaviour,negative
+RV01188,The car still had dirt on the bumpers.,wash_quality,negative
+RV01188,Not worth the money.,price,negative
+RV01189,Would tell my colleagues about it.,other,neutral
+RV01189,Not worth the money.,staff_behaviour,positive
+RV01189,Arrived right on time.,punctuality,positive
+RV01190,Friendly and helpful team.,staff_behaviour,positive
+RV01191,Fair rates for the quality.,price,positive
+RV01191,Rescheduling took seconds.,booking_experience,positive
+RV01192,The crew was rude and dismissive.,staff_behaviour,negative
+RV01192,Loved how simple the app is.,booking_experience,positive
+RV01192,Would tell my colleagues about it.,other,neutral
+RV01193,The car was spotless and shining.,wash_quality,positive
+RV01193,Very professional staff.,staff_behaviour,positive
+RV01194,Good value for the money.,price,positive
+RV01194,Arrived right on time.,punctuality,positive
+RV01194,The interior looked brand new.,wash_quality,positive
+RV01195,Booking was quick and easy.,booking_experience,positive
+RV01195,The interior looked brand new.,wash_quality,positive
+RV01196,Windows were crystal clear.,wash_quality,positive
+RV01197,Rescheduling took seconds.,booking_experience,positive
+RV01197,My paint has fresh scratches now.,wash_quality,negative
+RV01198,Arrived right on time.,punctuality,positive
+RV01198,Good value for the money.,price,positive
+RV01199,Friendly and helpful team.,staff_behaviour,positive
+RV01199,Cheaper than going to a car wash.,punctuality,negative

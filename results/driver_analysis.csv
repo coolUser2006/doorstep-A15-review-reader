@@ -1,0 +1,6 @@
+aspect,n_reviews_negative,mean_rating_if_negative,mean_rating_otherwise,odds_ratio,ci_low,ci_high
+punctuality,171,2.708,4.314,187.492,83.105,613.045
+wash_quality,148,3.027,4.234,68.743,30.449,212.702
+staff_behaviour,122,3.262,4.178,16.358,7.314,42.927
+price,160,3.738,4.138,8.399,3.883,17.794
+booking_experience,104,3.769,4.115,2.205,0.701,6.452
